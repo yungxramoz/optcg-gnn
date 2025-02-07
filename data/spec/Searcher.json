@@ -5,7 +5,7 @@
     "type": "Event",
     "cost": 1,
     "power": 0,
-    "effect": "Activate Main Look at the top 5 cards of your deck, reveal 1 Straw Hat Crew type Character Card and add it to your hand. Return the other cards in any order to the bottom of the deck. Trigger Activate this cards Activate Main effect.",
+    "effect": "[Activate Main] Look at the top 5 cards of your deck, reveal 1 Straw Hat Crew type Character Card and add it to your hand. Return the other cards in any order to the bottom of the deck. [Trigger] Activate this cards [Activate Main] effect.",
     "traits": [
       "Straw Hat Crew"
     ],
@@ -17,6 +17,8 @@
     "life": 0,
     "counter": 0,
     "labels": [
+      "Main",
+      "Trigger",
       "Searcher",
       "Low Cost",
       "Support"
@@ -28,7 +30,7 @@
     "type": "Event",
     "cost": 1,
     "power": 0,
-    "effect": "Activate Main Look at the top 5 cards of your deck, reveal 1 Baroque Works type card other than (Baroque Works) and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
+    "effect": "[Activate Main] Look at the top 5 cards of your deck, reveal 1 Baroque Works type card other than (Baroque Works) and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
     "traits": [
       "Baroque Works"
     ],
@@ -40,6 +42,7 @@
     "life": 0,
     "counter": 0,
     "labels": [
+      "Main",
       "Searcher",
       "Low Cost",
       "Support"
@@ -51,7 +54,7 @@
     "type": "Character",
     "cost": 3,
     "power": 4000,
-    "effect": "DON!! x1 When Attacking Look at the top 5 cards of your deck. Reveal up to 1 Event card with Baroque Works in its type among them and add it to your hand. Place the remaining cards at the bottom of your deck in any order.",
+    "effect": "DON!! x1 [When Attacking] Look at the top 5 cards of your deck. Reveal up to 1 Event card with Baroque Works in its type among them and add it to your hand. Place the remaining cards at the bottom of your deck in any order.",
     "traits": [
       "Baroque Works"
     ],
@@ -65,6 +68,7 @@
     "life": 0,
     "counter": 2000,
     "labels": [
+      "When Attacking",
       "Searcher",
       "Low Cost",
       "Support",
@@ -77,7 +81,7 @@
     "type": "Character",
     "cost": 1,
     "power": 2000,
-    "effect": "On Play Look at the top 5 cards of your deck, reveal 1 Straw Hat Crew type card other than Nami and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
+    "effect": "[On Play] Look at the top 5 cards of your deck, reveal 1 Straw Hat Crew type card other than Nami and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
     "traits": [
       "Straw Hat Crew"
     ],
@@ -91,10 +95,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "On Play",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive"
+      "Support"
     ]
   },
   {
@@ -103,7 +107,7 @@
     "type": "Character",
     "cost": 1,
     "power": 1000,
-    "effect": "Activate Main (1 DON!!) Rest this Character: Look at the top 5 cards of your deck, reveal 1 Supernovas type card and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
+    "effect": "[Activate Main] (1 DON!!) Rest this Character: Look at the top 5 cards of your deck, reveal 1 Supernovas type card and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
     "traits": [
       "Supernovas",
       "Bonney Pirates"
@@ -118,6 +122,7 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "Main",
       "Searcher",
       "Low Cost",
       "Support"
@@ -129,7 +134,7 @@
     "type": "Character",
     "cost": 1,
     "power": 0,
-    "effect": "On Play Look at the top 5 cards of your deck, reveal 1 FILM type card other than Buena Fiesta and add it to your hand. Then, return the other cards to the bottom of the deck in any order.",
+    "effect": "[On Play] Look at the top 5 cards of your deck, reveal 1 FILM type card other than Buena Fiesta and add it to your hand. Then, return the other cards to the bottom of the deck in any order.",
     "traits": [
       "FILM",
       "Pirate Fest"
@@ -144,10 +149,10 @@
     "life": 0,
     "counter": 2000,
     "labels": [
+      "On Play",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive",
+      "Support",
       "Defensive"
     ]
   },
@@ -157,7 +162,7 @@
     "type": "Character",
     "cost": 1,
     "power": 2000,
-    "effect": "On Play Look at the top 5 cards of your deck, reveal up to 1 Blue Impel Down type card other than Buggy and add it to your hand. Place the remaining cards at the bottom of your deck in any order.",
+    "effect": "[On Play] Look at the top 5 cards of your deck, reveal up to 1 Blue Impel Down type card other than Buggy and add it to your hand. Place the remaining cards at the bottom of your deck in any order.",
     "traits": [
       "Impel Down",
       "Buggy Pirates"
@@ -172,10 +177,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "On Play",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive"
+      "Support"
     ]
   },
   {
@@ -184,7 +189,7 @@
     "type": "Character",
     "cost": 3,
     "power": 5000,
-    "effect": "On Play / When Attacking (1 DON!!): Look at the top 3 cards of your deck, reveal up to 1 FILM type card other than Nami and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[On Play] / [When Attacking] (1 DON!!): Look at the top 3 cards of your deck, reveal up to 1 FILM type card other than Nami and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "traits": [
       "FILM",
       "Straw Hat Crew"
@@ -199,10 +204,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
+      "When Attacking",
+      "On Play",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive"
+      "Support"
     ]
   },
   {
@@ -211,7 +217,7 @@
     "type": "Character",
     "cost": 3,
     "power": 5000,
-    "effect": "On KO Look at the top 3 cards of your deck, reveal 1 Big Mom Pirates type card and add it to your hand. Return the rest to the bottom of your deck in any order. Trigger You may discard 1 card from your hand: Play this card.",
+    "effect": "[On KO] Look at the top 3 cards of your deck, reveal 1 Big Mom Pirates type card and add it to your hand. Return the rest to the bottom of your deck in any order. [Trigger] You may discard 1 card from your hand: Play this card.",
     "traits": [
       "Big Mom Pirates"
     ],
@@ -225,6 +231,8 @@
     "life": 0,
     "counter": 0,
     "labels": [
+      "On KO",
+      "Trigger",
       "Discard",
       "Searcher",
       "Summon",
@@ -238,7 +246,7 @@
     "type": "Character",
     "cost": 2,
     "power": 2000,
-    "effect": "On Play Look at the top 5 cards of your deck; reveal 1 green East Blue type card other than Nami and add it to your hand. Then, place the remaining cards at the bottom of the deck in any order. Trigger Play this card.",
+    "effect": "[On Play] Look at the top 5 cards of your deck; reveal 1 green East Blue type card other than Nami and add it to your hand. Then, place the remaining cards at the bottom of the deck in any order. [Trigger] Play this card.",
     "traits": [
       "East Blue",
       "Arlong Crew"
@@ -253,6 +261,8 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "On Play",
+      "Trigger",
       "Searcher",
       "Summon",
       "Low Cost",
@@ -265,7 +275,7 @@
     "type": "Character",
     "cost": 1,
     "power": 3000,
-    "effect": "This Character cant be KOed in battle with Slash attribute Characters and Leaders. On Play Look at the top 5 cards of your deck, reveal up to 1 Red Event card and add it to your hand. Place the rest of the cards at the bottom of your deck in any order.",
+    "effect": "This Character cant be KOed in battle with Slash attribute Characters and Leaders. [On Play] Look at the top 5 cards of your deck, reveal up to 1 Red Event card and add it to your hand. Place the rest of the cards at the bottom of your deck in any order.",
     "traits": [
       "Buggy Pirates"
     ],
@@ -279,10 +289,10 @@
     "life": 0,
     "counter": 0,
     "labels": [
+      "On Play",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive"
+      "Support"
     ]
   },
   {
@@ -291,7 +301,7 @@
     "type": "Character",
     "cost": 1,
     "power": 2000,
-    "effect": "On Play Look at the top 5 cards of your deck, reveal up to 1 card with Whitebeard Pirates in its types other than Izou and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
+    "effect": "[On Play] Look at the top 5 cards of your deck, reveal up to 1 card with Whitebeard Pirates in its types other than Izou and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
     "traits": [
       "Wano Country",
       "Whitebeard Pirates"
@@ -306,10 +316,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "On Play",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive"
+      "Support"
     ]
   },
   {
@@ -318,7 +328,7 @@
     "type": "Character",
     "cost": 2,
     "power": 3000,
-    "effect": "On Play Look at the top 3 cards of your deck, reveal 1 Navy type card other than Brannew and add it to your hand. Then trash the remaining cards.",
+    "effect": "[On Play] Look at the top 3 cards of your deck, reveal 1 Navy type card other than Brannew and add it to your hand. Then trash the remaining cards.",
     "traits": [
       "Navy"
     ],
@@ -332,10 +342,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "On Play",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive"
+      "Support"
     ]
   },
   {
@@ -344,7 +354,7 @@
     "type": "Character",
     "cost": 1,
     "power": 2000,
-    "effect": "On Play Look at the top 4 cards of your deck, reveal 1 Big Mom Pirates type card other than Charlotte Pudding or 1 Sanji and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
+    "effect": "[On Play] Look at the top 4 cards of your deck, reveal 1 Big Mom Pirates type card other than Charlotte Pudding or 1 Sanji and add it to your hand. Place the remaining cards at the bottom of the deck in any order.",
     "traits": [
       "Big Mom Pirates"
     ],
@@ -358,10 +368,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "On Play",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive"
+      "Support"
     ]
   },
   {
@@ -370,7 +380,7 @@
     "type": "Stage",
     "cost": 1,
     "power": 3000,
-    "effect": "Activate Main (2 DON!!) You may rest this Stage: If your Leader is Portgas D. Ace, look at the top 5 cards of your deck, reveal up to 1 Event card and add it to your hand. Then, place the rest of the cards at the bottom of your deck in any order.",
+    "effect": "[Activate Main] (2 DON!!) You may rest this Stage: If your Leader is Portgas D. Ace, look at the top 5 cards of your deck, reveal up to 1 Event card and add it to your hand. Then, place the rest of the cards at the bottom of your deck in any order.",
     "traits": [
       "Whitebeard Pirates"
     ],
@@ -382,6 +392,7 @@
     "life": 0,
     "counter": 0,
     "labels": [
+      "Main",
       "Searcher",
       "Leader Locked",
       "Low Cost",
@@ -394,7 +405,7 @@
     "type": "Character",
     "cost": 1,
     "power": 2000,
-    "effect": "On Play Look at the top 3 cards of your deck, reveal up to 1 card with CP in its types other than Spandam and add it to your hand. Then trash the remaining cards.",
+    "effect": "[On Play] Look at the top 3 cards of your deck, reveal up to 1 card with CP in its types other than Spandam and add it to your hand. Then trash the remaining cards.",
     "traits": [
       "CP9"
     ],
@@ -408,10 +419,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "On Play",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive"
+      "Support"
     ]
   },
   {
@@ -420,7 +431,7 @@
     "type": "Character",
     "cost": 1,
     "power": 0,
-    "effect": "On Play You may trash 2 cards in your hand: Look at the top 5 cards of your deck, reveal up to 1 card with the East Blue type and add it to your hand. Place the remaining cards at the bottom of your deck in any order.",
+    "effect": "[On Play] You may trash 2 cards in your hand: Look at the top 5 cards of your deck, reveal up to 1 card with the East Blue type and add it to your hand. Place the remaining cards at the bottom of your deck in any order.",
     "traits": [
       "East Blue"
     ],
@@ -434,11 +445,11 @@
     "life": 0,
     "counter": 2000,
     "labels": [
+      "On Play",
       "Mill",
       "Searcher",
-      "Summon",
       "Low Cost",
-      "Aggressive",
+      "Support",
       "Defensive"
     ]
   },
@@ -448,7 +459,7 @@
     "type": "Character",
     "cost": 4,
     "power": 5000,
-    "effect": "On Play If your Leader has the Animal Kingdom Pirates type, look at the top 7 cards of your deck, reveal up to 2 total Plague Rounds or Ice Oni and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "effect": "[On Play] If your Leader has the Animal Kingdom Pirates type, look at the top 7 cards of your deck, reveal up to 2 total Plague Rounds or Ice Oni and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
     "traits": [
       "Animal Kingdom Pirates"
     ],
@@ -462,11 +473,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "On Play",
       "Searcher",
-      "Summon",
       "Leader Locked",
       "Mid Cost",
-      "Aggressive"
+      "Support"
     ]
   },
   {
@@ -475,7 +486,7 @@
     "type": "Character",
     "cost": 2,
     "power": 2000,
-    "effect": "On Play Look at the top 5 cards of your deck, reveal 1 card with Baroque Works in one of its types and add it to your hand. Place the remaining cards at the bottom of your deck in any order. Trigger DON!! -1: Play this card.",
+    "effect": "[On Play] Look at the top 5 cards of your deck, reveal 1 card with Baroque Works in one of its types and add it to your hand. Place the remaining cards at the bottom of your deck in any order. [Trigger] DON!! -1: Play this card.",
     "traits": [
       "Baroque Works"
     ],
@@ -489,6 +500,8 @@
     "life": 0,
     "counter": 1000,
     "labels": [
+      "On Play",
+      "Trigger",
       "Searcher",
       "Summon",
       "Don Minus",
@@ -502,7 +515,7 @@
     "type": "Event",
     "cost": 2,
     "power": 0,
-    "effect": "Counter Give up to 1 of your Leader or Characters Power +4000 for this battle. Then, look at the top 3 cards of your deck, reveal up to 1 Donquixote Pirates type Character card and add it to your hand. Then, return the remaining cards to the bottom of your deck in your desired order.",
+    "effect": "[Counter] Give up to 1 of your Leader or Characters Power +4000 for this battle. Then, look at the top 3 cards of your deck, reveal up to 1 Donquixote Pirates type Character card and add it to your hand. Then, return the remaining cards to the bottom of your deck in your desired order.",
     "traits": [
       "The Seven Warlords",
       "Donquixote Pirates"
@@ -515,9 +528,10 @@
     "life": 0,
     "counter": 0,
     "labels": [
+      "Counter",
       "Searcher",
       "Low Cost",
-      "Support"
+      "Defensive"
     ]
   }
 ]
