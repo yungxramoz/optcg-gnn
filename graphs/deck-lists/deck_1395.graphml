@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP05-036">
+      <data key="d0">Monet (OP05-036)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP04-024">
+      <data key="d0">Sugar (OP04-024)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP04-032">
+      <data key="d0">Baby 5 (OP04-032)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-039">
+      <data key="d0">Killer (OP01-039)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-034">
+      <data key="d0">Baby 5 (OP05-034)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-033">
+      <data key="d0">Izo (OP01-033)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST02-008">
+      <data key="d0">Scratchmen Apoo (ST02-008)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-051">
+      <data key="d0">Eustass Captain Kid (OP01-051)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST02-007">
+      <data key="d0">Jewelry Bonney (ST02-007)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-022">
+      <data key="d0">Yamato (OP06-022)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP05-030">
+      <data key="d0">Donquixote Rosinante (OP05-030)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-101">
+      <data key="d0">O-Nami (OP06-101)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-102">
+      <data key="d0">Gedatsu (OP05-102)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-058">
+      <data key="d0">Punk Gibson (OP01-058)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP06-035">
+      <data key="d0">Hody Jones (OP06-035)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="OP04-024" target="OP06-022">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP01-051" target="OP01-039">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP01-058">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP01-033">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="ST02-008">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="ST02-007">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP04-024">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP04-032">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP05-030">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP05-034">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP05-036">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP05-102">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP06-022">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP06-035">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-051" target="OP06-101">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST02-007" target="OP01-039">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP01-033">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP01-051">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="ST02-008">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="ST02-007">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP04-024">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP04-032">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP05-030">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP05-034">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP05-036">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP05-102">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP06-035">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST02-007" target="OP06-101">
+      <data key="d3">searches</data>
+    </edge>
+  </graph>
+</graphml>

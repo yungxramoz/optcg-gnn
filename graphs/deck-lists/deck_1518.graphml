@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="ST13-014">
+      <data key="d0">Monkey.D.Luffy (ST13-014)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST13-003">
+      <data key="d0">Monkey.D.Luffy (ST13-003)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="ST13-010">
+      <data key="d0">Portgas.D.Ace (ST13-010)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST13-011">
+      <data key="d0">Portgas.D.Ace (ST13-011)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="EB01-056">
+      <data key="d0">Charlotte Flampe (EB01-056)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-083">
+      <data key="d0">Sabo (OP04-083)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-115">
+      <data key="d0">Two-Hundred Million Volts Amaru (OP05-115)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP06-106">
+      <data key="d0">Kouzuki Hiyori (OP06-106)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST13-013">
+      <data key="d0">Monkey.D.Garp (ST13-013)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-093">
+      <data key="d0">Perona (OP06-093)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="ST13-019">
+      <data key="d0">The Three Brothers' Bond (ST13-019)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-086">
+      <data key="d0">Gecko Moria (OP06-086)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST13-007">
+      <data key="d0">Sabo (ST13-007)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST13-015">
+      <data key="d0">Monkey.D.Luffy (ST13-015)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST13-012">
+      <data key="d0">Makino (ST13-012)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP06-116">
+      <data key="d0">Reject (OP06-116)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <edge source="ST13-014" target="OP04-083">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="OP05-115">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="OP06-086">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="OP06-093">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="OP06-106">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="OP06-116">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="EB01-056">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="ST13-003">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="ST13-007">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="ST13-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="ST13-011">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="ST13-012">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="ST13-013">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="ST13-015">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-014" target="ST13-019">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-003" target="OP06-086">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="ST13-003" target="ST13-007">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="ST13-003" target="ST13-010">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="ST13-003" target="ST13-014">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="ST13-003" target="ST13-015">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="ST13-010" target="OP04-083">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="OP05-115">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="OP06-086">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="OP06-093">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="OP06-106">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="OP06-116">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="EB01-056">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="ST13-003">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="ST13-007">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="ST13-011">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="ST13-012">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="ST13-013">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="ST13-014">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="ST13-015">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-010" target="ST13-019">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-083" target="OP06-086">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-115" target="OP06-086">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-115" target="ST13-007">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="OP05-115" target="ST13-010">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="OP05-115" target="ST13-014">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="OP05-115" target="ST13-015">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="OP06-106" target="ST13-007">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="OP06-106" target="ST13-010">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="OP06-106" target="ST13-014">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="OP06-106" target="ST13-015">
+      <data key="d3">synergizes with life gain</data>
+    </edge>
+    <edge source="OP06-086" target="OP04-083">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP05-115">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP06-093">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP06-106">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP06-116">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="EB01-056">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST13-003">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST13-007">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST13-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST13-011">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST13-012">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST13-013">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST13-014">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST13-015">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST13-019">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="OP04-083">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="OP05-115">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="OP06-086">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="OP06-093">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="OP06-106">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="OP06-116">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="EB01-056">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="ST13-003">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="ST13-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="ST13-011">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="ST13-012">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="ST13-013">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="ST13-014">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="ST13-015">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-007" target="ST13-019">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST13-012" target="ST13-007">
+      <data key="d3">synergizes with life reveal</data>
+    </edge>
+    <edge source="ST13-012" target="ST13-010">
+      <data key="d3">synergizes with life reveal</data>
+    </edge>
+    <edge source="ST13-012" target="ST13-014">
+      <data key="d3">synergizes with life reveal</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP03-123">
+      <data key="d0">Charlotte Katakuri (OP03-123)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP04-058">
+      <data key="d0">Crocodile (OP04-058)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP04-073">
+      <data key="d0">Mr. 13 &amp; Ms. Friday (OP04-073)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-115">
+      <data key="d0">You're the One Who Should Disappear. (OP06-115)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST04-016">
+      <data key="d0">Blast Breath (ST04-016)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP05-073">
+      <data key="d0">Miss Doublefinger (Zala) (OP05-073)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST07-010">
+      <data key="d0">Charlotte Linlin (ST07-010)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP04-112">
+      <data key="d0">Yamato (OP04-112)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-066">
+      <data key="d0">Ms. Valentine (Mikita) (OP04-066)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="EB01-038">
+      <data key="d0">Okama Way (EB01-038)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="EB01-061">
+      <data key="d0">Mr 2. Bon Clay (Bentham) (EB01-061)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-104">
+      <data key="d0">Kikunojo (OP06-104)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-064">
+      <data key="d0">Ms. All Sunday (OP04-064)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP04-100">
+      <data key="d0">Capone Gang Bege (OP04-100)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-060">
+      <data key="d0">Crocodile (OP04-060)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="EB01-034">
+      <data key="d0">Miss Wednesday (EB01-034)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="OP04-058" target="ST04-016">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP04-058" target="OP04-064">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP04-058" target="OP04-060">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP04-058" target="OP04-066">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP04-058" target="OP05-073">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP04-058" target="EB01-034">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP04-058" target="EB01-038">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP04-073" target="ST04-016">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="ST07-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP03-123">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP04-058">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP04-064">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP04-060">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP04-066">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP04-112">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP04-100">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP05-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP06-104">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="OP06-115">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="EB01-034">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="EB01-038">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-073" target="EB01-061">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="ST04-016">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="ST07-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP03-123">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP04-058">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP04-064">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP04-060">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP04-066">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP04-112">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP04-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP04-100">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP06-104">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="OP06-115">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="EB01-034">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="EB01-038">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-073" target="EB01-061">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="ST04-016">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="ST07-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP03-123">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP04-058">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP04-064">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP04-060">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP04-066">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP04-066" target="OP04-112">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP04-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP04-100">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP05-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP06-104">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="OP06-115">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="EB01-034">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="EB01-038">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-066" target="EB01-061">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="EB01-038" target="OP04-058">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="EB01-061" target="ST04-016">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="EB01-061" target="OP04-064">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="EB01-061" target="OP04-060">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="EB01-061" target="OP04-066">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="EB01-061" target="OP05-073">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="EB01-061" target="EB01-034">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="EB01-061" target="EB01-038">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP06-104" target="ST04-016">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="ST07-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP03-123">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP04-058">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP04-064">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP04-060">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP04-066">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP04-112">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP04-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP04-100">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP05-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="OP06-115">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="EB01-034">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="EB01-038">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-104" target="EB01-061">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="ST04-016">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="ST07-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP03-123">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP04-058">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP04-060">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP04-066">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP04-112">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP04-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP04-100">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP05-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP06-104">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP06-115">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="EB01-034">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="EB01-038">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="EB01-061">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-060" target="OP04-058">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="EB01-034" target="OP04-058">
+      <data key="d3">requires leader</data>
+    </edge>
+  </graph>
+</graphml>

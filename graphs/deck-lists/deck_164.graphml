@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="ST04-003">
+      <data key="d0">Kaido (ST04-003)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-006">
+      <data key="d0">Sasaki (ST04-006)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-010">
+      <data key="d0">Who's who (ST04-010)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST04-007">
+      <data key="d0">Sheepshead (ST04-007)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-004">
+      <data key="d0">King (ST04-004)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-005">
+      <data key="d0">Queen (ST04-005)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-014">
+      <data key="d0">All Star Disaster (ST04-014)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-001">
+      <data key="d0">Kaido (ST04-001)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="ST04-008">
+      <data key="d0">Jack (ST04-008)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-011">
+      <data key="d0">Black Maria (ST04-011)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-016">
+      <data key="d0">Blast Breath (ST04-016)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-017">
+      <data key="d0">Onigashima (ST04-017)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-002">
+      <data key="d0">Ulti (ST04-002)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-013">
+      <data key="d0">X Drake (ST04-013)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <edge source="ST04-010" target="ST04-001">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-010" target="ST04-016">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-010" target="ST04-006">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-010" target="ST04-007">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-010" target="ST04-008">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-010" target="ST04-011">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-010" target="ST04-013">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-010" target="ST04-017">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-017" target="ST04-001">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-001">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-004">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-016">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-005">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-003">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-006">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-007">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-008">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-011">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-013">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-017">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-014">
+      <data key="d3">summons</data>
+    </edge>
+  </graph>
+</graphml>

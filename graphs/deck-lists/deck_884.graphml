@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="ST03-017">
+      <data key="d0">Love Love Beam (ST03-017)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-067">
+      <data key="d0">Arabesque Brick Fist (OP02-067)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-064">
+      <data key="d0">Mr. 2 Bon Clay (Bentham) (OP02-064)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP03-055">
+      <data key="d0">Gum Gum Giant Gavel (OP03-055)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-054">
+      <data key="d0">Usopp's Rubber Band of Doom! (OP03-054)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-063">
+      <data key="d0">Mr.1(Daz.Bonez) (OP02-063)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-040">
+      <data key="d0">Nami (OP03-040)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP03-047">
+      <data key="d0">Zeff (OP03-047)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-044">
+      <data key="d0">Kaya (OP03-044)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-069">
+      <data key="d0">DEATH WINK (OP02-069)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-088">
+      <data key="d0">Desert Spada (OP01-088)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-056">
+      <data key="d0">Sanji's Pilaf (OP03-056)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-066">
+      <data key="d0">Impel Down All Stars (OP02-066)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-058">
+      <data key="d0">Buggy (OP02-058)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="OP02-064" target="OP02-063">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP03-055" target="OP02-063">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP03-054" target="OP02-063">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP03-040" target="OP02-063">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP03-047" target="OP02-063">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP03-044" target="OP02-063">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP01-088" target="OP02-063">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP02-066" target="OP03-040">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP02-066" target="OP02-063">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP02-058" target="OP01-088">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="ST03-017">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP02-064">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP02-058">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP02-063">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP02-066">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP02-067">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP02-069">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP03-040">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP03-047">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP03-044">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP03-054">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP03-055">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP02-058" target="OP03-056">
+      <data key="d3">searches</data>
+    </edge>
+  </graph>
+</graphml>

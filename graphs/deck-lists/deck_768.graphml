@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP04-090">
+      <data key="d0">Monkey D. Luffy (OP04-090)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-093">
+      <data key="d0">Gum-Gum King Kong Gun (OP04-093)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST06-006">
+      <data key="d0">Tashigi (ST06-006)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP04-080">
+      <data key="d0">Gyats (OP04-080)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-092">
+      <data key="d0">Rebecca (OP04-092)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-083">
+      <data key="d0">Sabo (OP04-083)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-082">
+      <data key="d0">Kyros (OP04-082)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-089">
+      <data key="d0">Bartolomeo (OP04-089)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-094">
+      <data key="d0">Trueno Bastardo (OP04-094)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP04-096">
+      <data key="d0">Corrida Colosseum (OP04-096)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP04-091">
+      <data key="d0">Leo (OP04-091)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-057">
+      <data key="d0">Three Thousand Worlds (OP03-057)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP04-039">
+      <data key="d0">Rebecca (OP04-039)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP04-077">
+      <data key="d0">Ideo (OP04-077)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-079">
+      <data key="d0">Orlumbus (OP04-079)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="OP04-090" target="OP04-090">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP04-093" target="OP04-090">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP04-083" target="OP04-090">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP04-082" target="OP04-039">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP04-082" target="OP04-090">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP04-096" target="OP04-039">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP04-091" target="OP04-039">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP04-091" target="OP04-090">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP04-079" target="OP04-090">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+  </graph>
+</graphml>

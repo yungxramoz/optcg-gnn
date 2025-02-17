@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP04-031">
+      <data key="d0">Donquixote Doflamingo (OP04-031)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-035">
+      <data key="d0">Hody Jones (OP06-035)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP05-040">
+      <data key="d0">Birdcage (OP05-040)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP04-024">
+      <data key="d0">Sugar (OP04-024)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-032">
+      <data key="d0">Baby 5 (OP04-032)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-021">
+      <data key="d0">Viola (OP04-021)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-034">
+      <data key="d0">Baby 5 (OP05-034)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-037">
+      <data key="d0">Flapping Thread (OP04-037)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST04-005">
+      <data key="d0">Queen (ST04-005)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-028">
+      <data key="d0">Diamante (OP04-028)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST10-013">
+      <data key="d0">EustassCaptainKid (ST10-013)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="EB01-019">
+      <data key="d0">Off White (EB01-019)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-035">
+      <data key="d0">Spiderweb (OP04-035)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-058">
+      <data key="d0">Punk Gibson (OP01-058)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-019">
+      <data key="d0">Donquixote Doflamingo (OP04-019)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <edge source="OP06-035" target="OP04-031">
+      <data key="d3">synergizes with stun</data>
+    </edge>
+    <edge source="OP06-035" target="OP05-040">
+      <data key="d3">synergizes with stun</data>
+    </edge>
+    <edge source="OP05-040" target="OP04-019">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP04-024" target="OP04-019">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP04-024" target="OP04-031">
+      <data key="d3">synergizes with stun</data>
+    </edge>
+    <edge source="OP04-024" target="OP05-040">
+      <data key="d3">synergizes with stun</data>
+    </edge>
+    <edge source="OP04-037" target="OP04-019">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="EB01-019" target="ST04-005">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="EB01-019" target="OP04-031">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="EB01-019" target="OP04-019">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="EB01-019" target="OP04-028">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="EB01-019" target="OP04-024">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="EB01-019" target="OP04-021">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="EB01-019" target="OP04-032">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="EB01-019" target="ST10-013">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="EB01-019" target="OP05-034">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="EB01-019" target="OP06-035">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-058" target="OP04-031">
+      <data key="d3">synergizes with stun</data>
+    </edge>
+    <edge source="OP01-058" target="OP05-040">
+      <data key="d3">synergizes with stun</data>
+    </edge>
+  </graph>
+</graphml>

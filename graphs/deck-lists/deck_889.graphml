@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP03-041">
+      <data key="d0">Usopp (OP03-041)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP05-118">
+      <data key="d0">Kaido (OP05-118)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST03-001">
+      <data key="d0">Crocodile (ST03-001)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP05-051">
+      <data key="d0">Borsalino (OP05-051)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-068">
+      <data key="d0">Gum Gum Rain (OP02-068)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP03-057">
+      <data key="d0">Three Thousand Worlds (OP03-057)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-079">
+      <data key="d0">Ms. All Sunday (OP01-079)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-047">
+      <data key="d0">Zeff (OP03-047)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP03-044">
+      <data key="d0">Kaya (OP03-044)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-048">
+      <data key="d0">Sasaki (OP04-048)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST03-013">
+      <data key="d0">Boa Hancock (ST03-013)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST03-005">
+      <data key="d0">Dracule Mihawk (ST03-005)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP04-056">
+      <data key="d0">Gum-Gum Red Roc (OP04-056)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-070">
+      <data key="d0">Dracule Mihawk (OP01-070)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-055">
+      <data key="d0">X.Drake (OP05-055)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-073">
+      <data key="d0">Donquixote Doflamingo (OP01-073)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="OP03-041" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP02-068" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP01-079" target="ST03-001">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP03-047" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP03-044" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="ST03-013" target="OP01-079">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP01-070">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP01-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="ST03-001">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="ST03-005">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP02-068">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP03-047">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP03-044">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP03-041">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP03-057">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP04-048">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP04-056">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP05-051">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP05-055">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-013" target="OP05-118">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-005" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+  </graph>
+</graphml>

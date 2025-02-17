@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP02-096">
+      <data key="d0">Kuzan (OP02-096)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST06-006">
+      <data key="d0">Tashigi (ST06-006)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-118">
+      <data key="d0">Kaido (OP05-118)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP05-088">
+      <data key="d0">Mansherry (OP05-088)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP04-083">
+      <data key="d0">Sabo (OP04-083)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP05-093">
+      <data key="d0">Rob Lucci (OP05-093)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-089">
+      <data key="d0">Brannew (OP03-089)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-051">
+      <data key="d0">Borsalino (OP05-051)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP05-057">
+      <data key="d0">Hound Blaze (OP05-057)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-091">
+      <data key="d0">Rebecca (OP05-091)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-050">
+      <data key="d0">Hina (OP05-050)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST06-015">
+      <data key="d0">Great Eruption (ST06-015)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-117">
+      <data key="d0">Ice Age (OP02-117)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST06-008">
+      <data key="d0">Hina (ST06-008)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-041">
+      <data key="d0">Sakazuki (OP05-041)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP02-114">
+      <data key="d0">Borsalino (OP02-114)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-106">
+      <data key="d0">Tsuru (OP02-106)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="OP05-088" target="OP05-088">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-088" target="OP05-091">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-088" target="OP05-093">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP04-083" target="OP05-088">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP04-083" target="OP05-091">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP04-083" target="OP05-093">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-093" target="OP05-088">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-093" target="OP05-091">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-093" target="OP05-093">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP03-089" target="OP02-114">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP02-096">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP02-106">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP02-117">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="ST06-015">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="ST06-008">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="ST06-006">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP03-089">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP04-083">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-041">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-050">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-051">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-057">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-088">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-091">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-093">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-118">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP05-091" target="OP02-114">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP02-096">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP02-106">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP02-117">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="ST06-015">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="ST06-008">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="ST06-006">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP03-089">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP04-083">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP05-041">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP05-050">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP05-051">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP05-057">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP05-088">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP05-093">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-091" target="OP05-118">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP05-041" target="OP05-088">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-041" target="OP05-091">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-041" target="OP05-093">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP04-057">
+      <data key="d0">Dragon Twister Demolition Breath (OP04-057)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-122">
+      <data key="d0">Sogeking (OP03-122)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST03-007">
+      <data key="d0">Sentomaru (ST03-007)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST03-001">
+      <data key="d0">Crocodile (ST03-001)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP04-044">
+      <data key="d0">Kaido (OP04-044)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-079">
+      <data key="d0">Ms. All Sunday (OP01-079)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-057">
+      <data key="d0">Three Thousand Worlds (OP03-057)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP03-044">
+      <data key="d0">Kaya (OP03-044)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-064">
+      <data key="d0">Alvida (OP01-064)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-048">
+      <data key="d0">Sasaki (OP04-048)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-074">
+      <data key="d0">Bartholomew Kuma (OP01-074)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-056">
+      <data key="d0">Gum-Gum Red Roc (OP04-056)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-075">
+      <data key="d0">Pacifista (OP01-075)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP01-070">
+      <data key="d0">Dracule Mihawk (OP01-070)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST03-012">
+      <data key="d0">Pacifista (ST03-012)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="ST03-007" target="OP01-074">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-007" target="OP01-079">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-007" target="OP01-064">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-007" target="OP01-075">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-007" target="ST03-001">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-007" target="ST03-012">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-007" target="OP03-044">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-007" target="OP03-057">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-007" target="OP04-048">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST03-007" target="OP04-057">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-079" target="ST03-001">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP03-044" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP01-064" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP01-074" target="OP01-079">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-074" target="OP01-064">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-074" target="OP01-075">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-074" target="ST03-001">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-074" target="ST03-007">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-074" target="ST03-012">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-074" target="OP03-044">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-074" target="OP03-057">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-074" target="OP04-048">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-074" target="OP04-057">
+      <data key="d3">summons</data>
+    </edge>
+  </graph>
+</graphml>

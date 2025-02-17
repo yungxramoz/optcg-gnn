@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="ST03-017">
+      <data key="d0">Love Love Beam (ST03-017)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-090">
+      <data key="d0">Baroque Works (OP01-090)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST03-004">
+      <data key="d0">Gecko Moria (ST03-004)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST04-004">
+      <data key="d0">King (ST04-004)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-084">
+      <data key="d0">Mr. 2 Bon Clay (Bentham) (OP01-084)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST04-005">
+      <data key="d0">Queen (ST04-005)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-079">
+      <data key="d0">Ms. All Sunday (OP01-079)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-114">
+      <data key="d0">X Drake (OP01-114)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-064">
+      <data key="d0">Alvida (OP01-064)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST03-008">
+      <data key="d0">Trafalgar Law (ST03-008)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-102">
+      <data key="d0">Jack (OP01-102)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST03-005">
+      <data key="d0">Dracule Mihawk (ST03-005)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-088">
+      <data key="d0">Desert Spada (OP01-088)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-062">
+      <data key="d0">Crocodile (OP01-062)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP01-067">
+      <data key="d0">Crocodile (OP01-067)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST03-009">
+      <data key="d0">Donquixote Doflamingo (ST03-009)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST01-016">
+      <data key="d0">Diable Jambe (ST01-016)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <edge source="OP01-090" target="OP01-090">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="OP01-079">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="OP01-064">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="OP01-084">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="OP01-067">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="OP01-114">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="OP01-102">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="OP01-088">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="OP01-062">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="ST01-016">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="ST03-017">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="ST03-005">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="ST03-009">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="ST03-004">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="ST03-008">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="ST04-004">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-090" target="ST04-005">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-084" target="OP01-090">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-084" target="OP01-088">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-084" target="ST01-016">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-084" target="ST03-017">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="ST04-005" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="ST04-005" target="ST03-004">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP01-079" target="OP01-062">
+      <data key="d3">requires leader</data>
+    </edge>
+    <edge source="OP01-064" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP01-064" target="ST03-004">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="ST03-005" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="ST03-005" target="ST03-004">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP01-088" target="OP01-079">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP01-088" target="ST03-004">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+  </graph>
+</graphml>

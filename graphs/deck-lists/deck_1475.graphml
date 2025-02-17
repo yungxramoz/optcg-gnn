@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP02-096">
+      <data key="d0">Kuzan (OP02-096)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP01-054">
+      <data key="d0">X Drake (OP01-054)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST06-006">
+      <data key="d0">Tashigi (ST06-006)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-031">
+      <data key="d0">Donquixote Doflamingo (OP04-031)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-021">
+      <data key="d0">Perona (OP06-021)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP05-037">
+      <data key="d0">Because the Side of Justice Will Be Whichever Side Wins!! (OP05-037)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP03-089">
+      <data key="d0">Brannew (OP03-089)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-034">
+      <data key="d0">Baby 5 (OP05-034)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-036">
+      <data key="d0">Ryuma (OP06-036)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-092">
+      <data key="d0">Brook (OP06-092)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP05-030">
+      <data key="d0">Donquixote Rosinante (OP05-030)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-086">
+      <data key="d0">Gecko Moria (OP06-086)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP03-079">
+      <data key="d0">Vergo (OP03-079)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-114">
+      <data key="d0">Borsalino (OP02-114)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-106">
+      <data key="d0">Tsuru (OP02-106)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="ST06-006" target="OP04-031">
+      <data key="d3">synergizes with stun</data>
+    </edge>
+    <edge source="OP06-021" target="OP04-031">
+      <data key="d3">synergizes with stun</data>
+    </edge>
+    <edge source="OP05-037" target="OP06-086">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="OP05-037" target="OP04-031">
+      <data key="d3">synergizes with stun</data>
+    </edge>
+    <edge source="OP03-089" target="OP01-054">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP02-114">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP02-096">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP02-106">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="ST06-006">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP03-079">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP03-089">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP04-031">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-030">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-034">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP05-037">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP06-086">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP06-092">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP06-021">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP03-089" target="OP06-036">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP06-086" target="OP01-054">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP02-114">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP02-096">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP02-106">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="ST06-006">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP03-079">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP03-089">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP04-031">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP05-030">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP05-034">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP05-037">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP06-092">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP06-021">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP06-086" target="OP06-036">
+      <data key="d3">summons</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP02-004">
+      <data key="d0">Edward Newgate (OP02-004)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-001">
+      <data key="d0">Roronoa Zoro (OP01-001)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP01-016">
+      <data key="d0">Nami (OP01-016)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="P-013">
+      <data key="d0">Gordon (P-013)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-011">
+      <data key="d0">Vista (OP02-011)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-017">
+      <data key="d0">Nico Robin (OP01-017)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="P-015">
+      <data key="d0">Sunny-kun (P-015)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST01-011">
+      <data key="d0">Brook (ST01-011)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-005">
+      <data key="d0">Curly Dadan (OP02-005)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-016">
+      <data key="d0">Magra (OP02-016)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP01-006">
+      <data key="d0">Otama (OP01-006)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-015">
+      <data key="d0">Makino (OP02-015)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST01-015">
+      <data key="d0">Jet Pistol (ST01-015)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-025">
+      <data key="d0">Roronoa Zoro (OP01-025)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="OP01-016" target="OP01-016">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="OP01-006">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="OP01-001">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="OP01-017">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="OP01-025">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="ST01-011">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="ST01-015">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="OP02-004">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="OP02-005">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="OP02-011">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="OP02-015">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="OP02-016">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="P-013">
+      <data key="d3">searches</data>
+    </edge>
+    <edge source="OP01-016" target="P-015">
+      <data key="d3">searches</data>
+    </edge>
+  </graph>
+</graphml>

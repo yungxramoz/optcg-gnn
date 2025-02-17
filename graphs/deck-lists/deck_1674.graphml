@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="P-017">
+      <data key="d0">Trafalgar Law (P-017)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST10-012">
+      <data key="d0">Bepo (ST10-012)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP05-074">
+      <data key="d0">EustassCaptainKid (OP05-074)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-069">
+      <data key="d0">Vinsmoke Reiju (OP06-069)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="P-013">
+      <data key="d0">Gordon (P-013)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST10-008">
+      <data key="d0">Shachi &amp; Penguin (ST10-008)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="EB01-006">
+      <data key="d0">Tony Tony.Chopper (EB01-006)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST10-001">
+      <data key="d0">Trafalgar Law (ST10-001)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="EB01-061">
+      <data key="d0">Mr 2. Bon Clay (Bentham) (EB01-061)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST04-005">
+      <data key="d0">Queen (ST04-005)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP02-013">
+      <data key="d0">Portgas. D. Ace (OP02-013)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP01-006">
+      <data key="d0">Otama (OP01-006)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP06-076">
+      <data key="d0">Hitokiri Kamazo (OP06-076)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST05-002">
+      <data key="d0">Ain (ST05-002)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-025">
+      <data key="d0">Roronoa Zoro (OP01-025)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="EB01-003">
+      <data key="d0">Kid &amp; Killer (EB01-003)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="ST10-001" target="OP01-006">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="OP01-025">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="ST04-005">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="ST05-002">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="OP02-013">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="P-013">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="P-017">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="ST10-008">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="ST10-012">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="OP05-074">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="OP06-069">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="OP06-076">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="EB01-003">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="EB01-006">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST10-001" target="EB01-061">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="EB01-061" target="ST04-005">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="EB01-061" target="ST10-001">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP02-013" target="ST10-001">
+      <data key="d3">requires leader</data>
+    </edge>
+  </graph>
+</graphml>

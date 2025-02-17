@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP01-060">
+      <data key="d0">Donquixote Doflamingo (OP01-060)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP05-118">
+      <data key="d0">Kaido (OP05-118)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-077">
+      <data key="d0">Perona (OP01-077)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST03-004">
+      <data key="d0">Gecko Moria (ST03-004)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-051">
+      <data key="d0">Who's Who (OP04-051)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP06-058">
+      <data key="d0">Gravity Blade Raging Tiger (OP06-058)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP06-047">
+      <data key="d0">Charlotte Pudding (OP06-047)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP03-057">
+      <data key="d0">Three Thousand Worlds (OP03-057)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP03-044">
+      <data key="d0">Kaya (OP03-044)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-078">
+      <data key="d0">Boa Hancock (OP01-078)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP04-048">
+      <data key="d0">Sasaki (OP04-048)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST12-014">
+      <data key="d0">Duval (ST12-014)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST03-005">
+      <data key="d0">Dracule Mihawk (ST03-005)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-054">
+      <data key="d0">Gecko Moria (OP02-054)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST03-008">
+      <data key="d0">Trafalgar Law (ST03-008)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP05-055">
+      <data key="d0">X.Drake (OP05-055)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP01-073">
+      <data key="d0">Donquixote Doflamingo (OP01-073)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="OP01-060" target="OP01-077">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP01-073">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP01-078">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="ST03-005">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="ST03-004">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="ST03-008">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP02-054">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP03-044">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP03-057">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP04-048">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP04-051">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP05-055">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP05-118">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="ST12-014">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP06-047">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-060" target="OP06-058">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP01-077" target="OP01-060">
+      <data key="d3">synergizes with top deck effects</data>
+    </edge>
+    <edge source="OP03-044" target="ST03-004">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+    <edge source="ST03-005" target="ST03-004">
+      <data key="d3">synergizes with trash interaction</data>
+    </edge>
+  </graph>
+</graphml>

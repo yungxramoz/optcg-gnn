@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="edge" attr.name="label" attr.type="string" />
+  <key id="d2" for="node" attr.name="copies" attr.type="long" />
+  <key id="d1" for="node" attr.name="type" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="OP05-063">
+      <data key="d0">O-Robi (OP05-063)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="ST04-003">
+      <data key="d0">Kaido (ST04-003)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP03-066">
+      <data key="d0">Paulie (OP03-066)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST04-016">
+      <data key="d0">Blast Breath (ST04-016)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST04-012">
+      <data key="d0">Page One (ST04-012)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP02-088">
+      <data key="d0">Sphinx (OP02-088)</data>
+      <data key="d1" />
+      <data key="d2">2</data>
+    </node>
+    <node id="OP05-060">
+      <data key="d0">Monkey.D.Luffy (OP05-060)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP02-085">
+      <data key="d0">Magellan (OP02-085)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="ST10-008">
+      <data key="d0">Shachi &amp; Penguin (ST10-008)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST04-005">
+      <data key="d0">Queen (ST04-005)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-070">
+      <data key="d0">Fra-Nosuke (OP05-070)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="OP03-060">
+      <data key="d0">Kalifa (OP03-060)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP01-114">
+      <data key="d0">X Drake (OP01-114)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP01-092">
+      <data key="d0">Urashima (OP01-092)</data>
+      <data key="d1" />
+      <data key="d2">1</data>
+    </node>
+    <node id="OP04-064">
+      <data key="d0">Ms. All Sunday (OP04-064)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST10-010">
+      <data key="d0">Trafalgar Law (ST10-010)</data>
+      <data key="d1" />
+      <data key="d2">3</data>
+    </node>
+    <node id="ST04-002">
+      <data key="d0">Ulti (ST04-002)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <node id="OP05-074">
+      <data key="d0">EustassCaptainKid (OP05-074)</data>
+      <data key="d1" />
+      <data key="d2">4</data>
+    </node>
+    <edge source="OP03-066" target="OP01-114">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP03-066" target="ST04-002">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP03-066" target="ST04-016">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP03-066" target="ST04-005">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP03-066" target="ST04-003">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP03-066" target="OP02-085">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP03-066" target="OP03-060">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP03-066" target="OP04-064">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP03-066" target="ST10-010">
+      <data key="d3">synergizes with Don Ramp</data>
+    </edge>
+    <edge source="OP04-064" target="OP01-114">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP01-092">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="ST04-002">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="ST04-016">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="ST04-005">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="ST04-003">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="ST04-012">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP02-085">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP02-088">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP03-066">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP03-060">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="ST10-008">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="ST10-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP05-060">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP05-063">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP05-070">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="OP04-064" target="OP05-074">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP01-114">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP01-092">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-016">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-005">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-003">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST04-012">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP02-085">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP02-088">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP03-066">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP03-060">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP04-064">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST10-008">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="ST10-010">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP05-060">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP05-063">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP05-070">
+      <data key="d3">summons</data>
+    </edge>
+    <edge source="ST04-002" target="OP05-074">
+      <data key="d3">summons</data>
+    </edge>
+  </graph>
+</graphml>
