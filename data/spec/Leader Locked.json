@@ -20,13 +20,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Board Wipe",
       "Don Minus",
       "Leader Locked",
-      "High Cost",
-      "Defensive"
-    ]
+      "High Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-079",
@@ -49,12 +48,11 @@
     "counter": 1000,
     "labels": [
       "Blocker",
-      "On KO",
       "Trash Interaction",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-085",
@@ -76,11 +74,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-083",
@@ -104,9 +101,9 @@
     "labels": [
       "Buff Power",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-040",
@@ -129,12 +126,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-042",
@@ -157,11 +153,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-046",
@@ -184,12 +179,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "When Attacking",
       "Leader Locked",
       "Restand Don",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-089",
@@ -212,9 +206,9 @@
     "labels": [
       "Counter",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "ST04-017",
@@ -234,11 +228,10 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP02-086",
@@ -262,11 +255,10 @@
     "counter": 1000,
     "labels": [
       "Blocker",
-      "On KO",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP02-009",
@@ -288,12 +280,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Debuff Power",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP02-013",
@@ -316,12 +307,11 @@
     "counter": 0,
     "labels": [
       "Rush",
-      "On Play",
       "Debuff Power",
       "Leader Locked",
-      "High Cost",
-      "Aggressive"
-    ]
+      "High Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP02-021",
@@ -342,14 +332,13 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Removal",
       "Debuff Power",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP02-066",
@@ -369,14 +358,13 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Draw",
       "Discard",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP02-070",
@@ -396,13 +384,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Draw",
       "Discard",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP02-087",
@@ -426,11 +413,10 @@
     "counter": 1000,
     "labels": [
       "Double Attack",
-      "On KO",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "ST06-017",
@@ -450,14 +436,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
-      "On Play",
       "Cost Reduction",
       "Leader Locked",
       "Rest Character",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-024",
@@ -480,12 +464,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Leader Locked",
       "Rest Character",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-075",
@@ -506,11 +489,10 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-064",
@@ -533,11 +515,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On KO",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-048",
@@ -559,12 +540,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Removal",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-016",
@@ -585,13 +565,12 @@
     "counter": 0,
     "labels": [
       "Double Attack",
-      "Main",
       "Trigger",
       "Removal",
       "Leader Locked",
-      "High Cost",
-      "Defensive"
-    ]
+      "High Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-114",
@@ -614,11 +593,10 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Leader Locked",
-      "High Cost",
-      "Defensive"
-    ]
+      "High Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-067",
@@ -641,12 +619,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "When Attacking",
       "Don Ramp",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-017",
@@ -666,14 +643,13 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Counter",
       "Trigger",
       "Debuff Power",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-020",
@@ -693,12 +669,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Searcher",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-026",
@@ -722,14 +697,13 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Trigger",
       "Summon",
       "Leader Locked",
       "Rest Character",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-027",
@@ -752,13 +726,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Summon",
       "Leader Locked",
       "Rest Character",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-033",
@@ -785,10 +758,9 @@
       "Trigger",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-063",
@@ -812,13 +784,12 @@
     "counter": 0,
     "labels": [
       "Blocker",
-      "On Play",
       "Draw",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-068",
@@ -842,11 +813,10 @@
     "counter": 1000,
     "labels": [
       "Banish",
-      "On KO",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-069",
@@ -869,13 +839,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On KO",
       "Draw",
       "Discard",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-073",
@@ -896,14 +865,13 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Removal",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-093",
@@ -925,13 +893,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Removal",
       "Discard",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-094",
@@ -951,14 +918,13 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Summon",
       "Trash Interaction",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-098",
@@ -978,15 +944,14 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Cost Reduction",
       "Summon",
       "Leader Locked",
       "Rest Character",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-046",
@@ -1008,12 +973,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Searcher",
       "Leader Locked",
-      "Mid Cost",
-      "Support"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-060",
@@ -1036,15 +1000,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Opponents Attack",
-      "Once Per Turn",
-      "On Play",
       "Draw",
       "Don Minus",
       "Leader Locked",
-      "High Cost",
-      "Support"
-    ]
+      "High Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-063",
@@ -1067,14 +1028,12 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "On Opponents Attack",
       "Buff Power",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Support",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-091",
@@ -1097,12 +1056,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Mill",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-024",
@@ -1124,13 +1082,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Opponents Turn",
-      "On Play",
       "Leader Locked",
       "Rest Character",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-096",
@@ -1151,9 +1107,9 @@
     "counter": 0,
     "labels": [
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-008",
@@ -1175,13 +1131,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "When Attacking",
       "Removal",
       "Debuff Power",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-017",
@@ -1205,9 +1160,9 @@
       "Counter",
       "Debuff Power",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-018",
@@ -1227,13 +1182,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Debuff Power",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-026",
@@ -1255,13 +1209,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "When Attacking",
       "Leader Locked",
       "Restand Don",
       "Rest Character",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-033",
@@ -1283,13 +1236,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Leader Locked",
       "Restand Don",
       "Rest Character",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-037",
@@ -1314,9 +1266,9 @@
       "Trigger",
       "Buff Power",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-059",
@@ -1340,12 +1292,11 @@
     "counter": 1000,
     "labels": [
       "Blocker",
-      "On Opponents Attack",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-061",
@@ -1368,11 +1319,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-065",
@@ -1394,14 +1344,13 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Trigger",
       "Summon",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-082",
@@ -1423,15 +1372,14 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Removal",
       "Mill",
       "Protection",
       "Leader Locked",
       "Rest Character",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-085",
@@ -1453,14 +1401,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "When Attacking",
-      "On Play",
       "Mill",
       "Cost Reduction",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP05-005",
@@ -1482,13 +1428,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "When Attacking",
-      "On Play",
       "Debuff Power",
       "Leader Locked",
-      "Mid Cost",
-      "Support"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP05-006",
@@ -1510,13 +1454,11 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "On Play",
       "Debuff Power",
       "Leader Locked",
-      "Low Cost",
-      "Support",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP05-009",
@@ -1538,13 +1480,11 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "On Play",
       "Draw",
       "Leader Locked",
-      "Low Cost",
-      "Support",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP05-011",
@@ -1567,14 +1507,13 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Trigger",
       "Removal",
       "Summon",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP05-016",
@@ -1598,14 +1537,13 @@
     "counter": 0,
     "labels": [
       "Blocker",
-      "When Attacking",
       "Trigger",
       "Discard",
       "Summon",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP05-017",
@@ -1628,15 +1566,14 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "When Attacking",
       "Trigger",
       "Removal",
       "Discard",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP05-040",
@@ -1656,13 +1593,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "End of Your Turn",
       "Board Wipe",
       "Leader Locked",
       "Stun",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP05-043",
@@ -1684,11 +1620,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP05-059",
@@ -1709,13 +1644,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Draw",
       "Leader Locked",
-      "Mid Cost",
-      "Support"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "ST11-003",
@@ -1736,12 +1670,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Leader Locked",
       "Rest Character",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "ST11-004",
@@ -1762,12 +1695,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Leader Locked",
       "Restand Don",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-010",
@@ -1792,9 +1724,9 @@
     "labels": [
       "Blocker",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-082",
@@ -1816,14 +1748,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On KO",
-      "On Play",
       "Draw",
       "Discard",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-098",
@@ -1843,13 +1773,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Summon",
       "Trash Interaction",
       "Leader Locked",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-024",
@@ -1872,12 +1801,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-028",
@@ -1900,13 +1828,12 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "When Attacking",
       "Buff Power",
       "Leader Locked",
       "Restand Don",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-029",
@@ -1929,13 +1856,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "When Attacking",
       "Buff Power",
       "Leader Locked",
       "Restand Character",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-030",
@@ -1958,13 +1884,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "When Attacking",
       "Buff Power",
       "Protection",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-048",
@@ -1989,9 +1914,9 @@
       "Blocker",
       "Mill",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-060",
@@ -2014,13 +1939,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Summon",
       "Don Minus",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-064",
@@ -2043,13 +1967,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Summon",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-066",
@@ -2072,13 +1995,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Summon",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-068",
@@ -2101,13 +2023,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Summon",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-071",
@@ -2130,13 +2051,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Don Minus",
       "Trash Interaction",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-072",
@@ -2160,9 +2080,9 @@
     "labels": [
       "Blocker",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-088",
@@ -2187,9 +2107,9 @@
     "labels": [
       "Buff Power",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP06-091",
@@ -2211,12 +2131,11 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "On Play",
       "Mill",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-002",
@@ -2239,14 +2158,13 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Opponents Attack",
       "Debuff Power",
       "Discard",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-012",
@@ -2269,13 +2187,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "When Attacking",
-      "On Play",
       "Leader Locked",
       "Restand Don",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-020",
@@ -2296,12 +2212,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-027",
@@ -2323,14 +2238,13 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Buff Power",
       "Draw",
       "Discard",
       "Leader Locked",
-      "Mid Cost",
-      "Support"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-028",
@@ -2354,9 +2268,9 @@
       "Counter",
       "Trigger",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-031",
@@ -2379,13 +2293,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Don Minus",
       "Trash Interaction",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-033",
@@ -2407,13 +2320,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Summon",
       "Don Minus",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-034",
@@ -2436,12 +2348,11 @@
     "counter": 1000,
     "labels": [
       "Blocker",
-      "On Opponents Attack",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-035",
@@ -2463,14 +2374,13 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Trigger",
       "Summon",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-036",
@@ -2494,11 +2404,10 @@
     "counter": 0,
     "labels": [
       "Rush",
-      "On KO",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-038",
@@ -2523,9 +2432,9 @@
       "Draw",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-013",
@@ -2547,11 +2456,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-020",
@@ -2575,12 +2483,11 @@
     "counter": 0,
     "labels": [
       "Blocker",
-      "On KO",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-029",
@@ -2607,9 +2514,9 @@
       "Protection",
       "Leader Locked",
       "Rest Character",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-032",
@@ -2632,12 +2539,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Leader Locked",
       "Rest Character",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-042",
@@ -2662,9 +2568,9 @@
     "labels": [
       "Protection",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-058",
@@ -2684,12 +2590,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Discard",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-060",
@@ -2711,11 +2616,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-061",
@@ -2738,13 +2642,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Draw",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-063",
@@ -2767,12 +2670,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Don Minus",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-065",
@@ -2794,11 +2696,10 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "On Play",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-071",
@@ -2820,13 +2721,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
-      "Opponents Turn",
       "Debuff Power",
       "Leader Locked",
-      "High Cost",
-      "Defensive"
-    ]
+      "High Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-074",
@@ -2849,11 +2748,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-077",
@@ -2874,12 +2772,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-098",
@@ -2906,9 +2803,9 @@
       "Protection",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-100",
@@ -2931,16 +2828,14 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "On Play",
       "Trigger",
       "Draw",
       "Discard",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-101",
@@ -2967,9 +2862,9 @@
       "Trigger",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-104",
@@ -2995,9 +2890,9 @@
       "Trigger",
       "Draw",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-105",
@@ -3020,14 +2915,13 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On KO",
       "Trigger",
       "Summon",
       "Trash Interaction",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-110",
@@ -3050,14 +2944,13 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Trigger",
       "Removal",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-111",
@@ -3080,13 +2973,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Trigger",
       "Summon",
       "Leader Locked",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP07-113",
@@ -3111,9 +3003,9 @@
     "labels": [
       "Trigger",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "ST14-017",
@@ -3133,13 +3025,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Draw",
       "Increase Cost",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-012",
@@ -3162,12 +3053,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "When Attacking",
       "Removal",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-016",
@@ -3189,13 +3079,11 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "Main",
       "Buff Power",
       "Leader Locked",
-      "Low Cost",
-      "Support",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-022",
@@ -3218,12 +3106,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Leader Locked",
       "Stun",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-032",
@@ -3245,12 +3132,11 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "Main",
       "Leader Locked",
       "Restand Don",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-033",
@@ -3272,11 +3158,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-039",
@@ -3296,13 +3181,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
-      "End of Your Turn",
       "Leader Locked",
       "Restand Don",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-040",
@@ -3324,12 +3207,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Removal",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-041",
@@ -3351,11 +3233,10 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "Main",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-043",
@@ -3378,12 +3259,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Hand Destruction",
       "Leader Locked",
-      "High Cost",
-      "Support"
-    ]
+      "High Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-044",
@@ -3405,13 +3285,11 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "On Play",
       "Hand Destruction",
       "Leader Locked",
-      "Mid Cost",
-      "Support",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-048",
@@ -3433,11 +3311,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-053",
@@ -3457,13 +3334,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Draw",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-059",
@@ -3486,12 +3362,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Summon",
       "Leader Locked",
-      "Mid Cost",
-      "Aggressive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-062",
@@ -3513,12 +3388,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Summon",
       "Leader Locked",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-077",
@@ -3540,13 +3414,12 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Removal",
       "Don Minus",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-097",
@@ -3566,14 +3439,13 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Removal",
       "Cost Reduction",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-101",
@@ -3595,14 +3467,13 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Mill",
       "Gain Life",
       "Take Life",
       "Leader Locked",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-109",
@@ -3625,12 +3496,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Gain Life",
       "Leader Locked",
-      "Mid Cost",
-      "Defensive"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP08-115",
@@ -3658,8 +3528,8 @@
       "Discard",
       "Summon",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   }
 ]

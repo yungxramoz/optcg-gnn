@@ -17,12 +17,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Trigger",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-090",
@@ -42,11 +41,10 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-084",
@@ -68,12 +66,10 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "When Attacking",
       "Searcher",
-      "Low Cost",
-      "Support",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP01-016",
@@ -95,11 +91,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "ST02-007",
@@ -122,11 +117,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Main",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "ST05-014",
@@ -149,12 +143,10 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "On Play",
       "Searcher",
-      "Low Cost",
-      "Support",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP02-058",
@@ -177,11 +169,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP02-036",
@@ -204,12 +195,10 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "When Attacking",
-      "On Play",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-113",
@@ -231,14 +220,13 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On KO",
       "Trigger",
       "Discard",
       "Searcher",
       "Summon",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-030",
@@ -261,13 +249,12 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Trigger",
       "Searcher",
       "Summon",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-008",
@@ -289,11 +276,10 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "On Play",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-003",
@@ -316,11 +302,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-089",
@@ -342,11 +327,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-112",
@@ -368,11 +352,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-020",
@@ -392,12 +375,11 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Main",
       "Searcher",
       "Leader Locked",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP03-086",
@@ -419,11 +401,10 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Searcher",
-      "Low Cost",
-      "Support"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-041",
@@ -445,13 +426,11 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "On Play",
       "Mill",
       "Searcher",
-      "Low Cost",
-      "Support",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-046",
@@ -473,12 +452,11 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Searcher",
       "Leader Locked",
-      "Mid Cost",
-      "Support"
-    ]
+      "Mid Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "OP04-066",
@@ -500,14 +478,13 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "On Play",
       "Trigger",
       "Searcher",
       "Summon",
       "Don Minus",
-      "Low Cost",
-      "Aggressive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   },
   {
     "id": "EB01-019",
@@ -530,8 +507,8 @@
     "labels": [
       "Counter",
       "Searcher",
-      "Low Cost",
-      "Defensive"
-    ]
+      "Low Cost"
+    ],
+    "archetype": ""
   }
 ]
