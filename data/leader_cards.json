@@ -323,7 +323,7 @@
     "traits": [
       "FILM",
       "Four Emperors",
-      "Red Haired Pirates"
+      "Red-Haired Pirates"
     ],
     "color": [
       "Purple"
@@ -737,7 +737,7 @@
     "traits": [
       "Fish-Man",
       "East Blue",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Green",
@@ -839,7 +839,7 @@
     "power": 5000,
     "effect": "This Leader can not attack. Acitvate:Main DON!!-1 You may rest this Leader: Play up to 1 Character with the Galley-La Company type that costs 5 or less from your hand.",
     "traits": [
-      "Water Seven",
+      "Water 7",
       "Galley-La Company"
     ],
     "color": [
@@ -971,7 +971,7 @@
     "power": 5000,
     "effect": "This Leader cannot attack. [Activate Main] [Once per Turn] (2 DON!!): Draw 1 card, and up to 1 of your Characters gains <Rush> during this turn.",
     "traits": [
-      "Alabasta Kingdom"
+      "Alabasta"
     ],
     "color": [
       "Red",
@@ -1423,7 +1423,7 @@
     "effect": "DON!! x1 [When Attacking] (2 DON!!) You may discard 1 card from your hand: Trash the top 2 cards of your deck. Then play up to 1 Thriller Bark Pirates type Character card with a cost of 4 or less from your trash.",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pira"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Black"

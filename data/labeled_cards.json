@@ -994,7 +994,7 @@
     "power": 3000,
     "effect": "[Trigger] Play this card.",
     "traits": [
-      "Mink Tribe"
+      "Minks"
     ],
     "color": [
       "Red"
@@ -1020,7 +1020,7 @@
     "power": 5000,
     "effect": "<Blocker> DON!!x1 [On Block] You may play a Red Character card that costs 2 or less from your hand.",
     "traits": [
-      "Fish Man",
+      "Fish-Man",
       "Straw Hat Crew"
     ],
     "color": [
@@ -1351,7 +1351,7 @@
     "power": 4000,
     "effect": "DON!! x2When attacking Set 1 of your DON!! as active.",
     "traits": [
-      "Mink Tribe",
+      "Minks",
       "Wano Country",
       "Nine Red Scabbards"
     ],
@@ -1431,7 +1431,7 @@
     "effect": "<Rush> [When Attacking] During this battle, your opponent can not activate <Blocker> of Characters with 2000 power or less.",
     "traits": [
       "Four Emperors",
-      "Red Haired Pirates"
+      "Red-Haired Pirates"
     ],
     "color": [
       "Red"
@@ -1815,8 +1815,8 @@
     "power": 6000,
     "effect": "",
     "traits": [
-      "Giants",
-      "New Giant Warrior Pirates"
+      "Giant",
+      "New Giant Pirates"
     ],
     "color": [
       "Red"
@@ -2097,7 +2097,7 @@
     "power": 4000,
     "effect": "DON!! x1 [When Attacking] Play 1 Heart Pirates type card other than Bepo with a cost of 4 or less from your hand.",
     "traits": [
-      "Mink Tribe",
+      "Minks",
       "Heart Pirates"
     ],
     "color": [
@@ -2322,7 +2322,7 @@
     "effect": "DON!!x1 [Activate Main] You may rest this Character: Pick 1 card from your opponents hand and reveal it. If the revealed card is an Event card, place up to 1 of their Life cards on the bottom of the owners deck.",
     "traits": [
       "Fish-Man",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Blue"
@@ -2582,7 +2582,7 @@
     "effect": "Your Turn This Character gains <Double Attack> if you have 5 or more cards in your hand. ",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pirate"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Blue"
@@ -3096,7 +3096,7 @@
     "power": 3000,
     "effect": "[On Play] Rest one of your opponents characters that costs 3 or less.",
     "traits": [
-      "Mink Tribe",
+      "Minks",
       "Wano Country",
       "Nine Red Scabbards"
     ],
@@ -3606,7 +3606,7 @@
     "power": 3000,
     "effect": "",
     "traits": [
-      "Mink Tribe",
+      "Minks",
       "Heart Pirates"
     ],
     "color": [
@@ -4146,7 +4146,7 @@
     "traits": [
       "Fish-Man",
       "The Seven Warlords of the Sea",
-      "Sun Pirates"
+      "The Sun Pirates"
     ],
     "color": [
       "Blue"
@@ -4324,7 +4324,7 @@
     "effect": "[On Play] Add 1 The Seven Warlords of the Sea or Thriller Bark Pirates type Character with a cost of 4 or less other than Gecko Moria from your trash to your hand.",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pirate"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Blue"
@@ -4892,7 +4892,7 @@
     "traits": [
       "FILM",
       "Four Emperors",
-      "Red Haired Pirates"
+      "Red-Haired Pirates"
     ],
     "color": [
       "Purple"
@@ -4919,7 +4919,7 @@
     "effect": "[Activate Main] Once Per Turn Rest this Character, you may send one <FILM> type card from your hand to the trash: If your opponent has more DON!! cards on their field than you, add 2 cards from your DON!! deck and set it as rested.",
     "traits": [
       "FILM",
-      "Gran Tesoro"
+      "Grantesoro"
     ],
     "color": [
       "Purple"
@@ -4944,7 +4944,7 @@
     "effect": "[When Attacking] DON!! -2: Draw 2 cards.",
     "traits": [
       "FILM",
-      "Gran Tesoro"
+      "Grantesoro"
     ],
     "color": [
       "Purple"
@@ -5207,7 +5207,7 @@
     "effect": "",
     "traits": [
       "FILM",
-      "Gran Tesoro"
+      "Grantesoro"
     ],
     "color": [
       "Purple"
@@ -5571,7 +5571,7 @@
     "power": 5000,
     "effect": "[End of Your Turn] Set up to 1 of your DON!! as active.",
     "traits": [
-      "Mink Tribe"
+      "Minks"
     ],
     "color": [
       "Green"
@@ -5723,7 +5723,7 @@
     "power": 3000,
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 Red Character that costs 1 or less and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "traits": [
-      "Mountain Bandit"
+      "Mountain Bandits"
     ],
     "color": [
       "Red"
@@ -5926,7 +5926,7 @@
     "power": 4000,
     "effect": "If all your DON!! are rested, this Character cant leave the field due to your opponents effects.",
     "traits": [
-      "Mink Tribe",
+      "Minks",
       "Wano Country",
       "Nine Red Scabbards"
     ],
@@ -6006,7 +6006,7 @@
     "traits": [
       "Impel Down",
       "The Seven Warlords of the Sea",
-      "Kuja"
+      "Kuja Pirates"
     ],
     "color": [
       "Blue"
@@ -7028,7 +7028,7 @@
     "power": 3000,
     "effect": "[On Play] (2 DON!!): Set up to 1 of your Minks type Characters with a cost of 5 or less as active.",
     "traits": [
-      "Mink Tribe"
+      "Minks"
     ],
     "color": [
       "Green"
@@ -7106,7 +7106,7 @@
     "power": 4000,
     "effect": "<Blocker> ",
     "traits": [
-      "Mink Tribe",
+      "Minks",
       "Wano Country",
       "Nine Red Scabbards"
     ],
@@ -7211,7 +7211,7 @@
     "power": 3000,
     "effect": "[On Play] Play up to 1 Minks type Character card other than Wanda with a cost of 3 or less from your hand.",
     "traits": [
-      "Mink Tribe"
+      "Minks"
     ],
     "color": [
       "Green"
@@ -7339,7 +7339,7 @@
     "effect": "",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pirate"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Blue"
@@ -8776,7 +8776,7 @@
     "traits": [
       "FILM",
       "The Four Emperors",
-      "Red Hair Pirates"
+      "Red-Haired Pirates"
     ],
     "color": [
       "Red"
@@ -8856,7 +8856,7 @@
     "effect": "DON!! x1 When attacking KO up to 1 of your opponents Characters with 3000 or less Power.",
     "traits": [
       "FILM",
-      "Mink Tribe",
+      "Minks",
       "Heart Pirates"
     ],
     "color": [
@@ -8883,7 +8883,7 @@
     "effect": "",
     "traits": [
       "FILM",
-      "Red Hair Pirates"
+      "Red-Haired Pirates"
     ],
     "color": [
       "Red"
@@ -8936,7 +8936,7 @@
     "effect": "",
     "traits": [
       "FILM",
-      "Red Hair Pirates"
+      "Red-Haired Pirates"
     ],
     "color": [
       "Red"
@@ -9112,7 +9112,7 @@
     "traits": [
       "Fish-Man",
       "The Seven Warlords of the Sea",
-      "Sun Pirates"
+      "The Sun Pirates"
     ],
     "color": [
       "Blue"
@@ -9516,7 +9516,7 @@
     "power": 9000,
     "effect": "[When Attacking] You may discard any number of cards from your hand. This Character gains +1000 power during this battle for each card discarded this way.",
     "traits": [
-      "Red Haired Pirates"
+      "Red-Haired Pirates"
     ],
     "color": [
       "Blue"
@@ -9543,7 +9543,7 @@
     "effect": "DON!! x1 [When Attacking] If you have 4 or more cards in your Life area, Your opponent places 1 card from their hand to the bottom of their deck.",
     "traits": [
       "Fish-Man",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Blue"
@@ -9795,7 +9795,7 @@
     "power": 4000,
     "effect": "[Activate Main] You may trash this Character: Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
     "traits": [
-      "Kingdom of GERMA",
+      "GERMA 66",
       "The Vinsmoke Family"
     ],
     "color": [
@@ -10800,7 +10800,7 @@
     "traits": [
       "Fish-Man",
       "East Blue",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Green",
@@ -10854,7 +10854,7 @@
     "effect": "[On Play] Look at the top 5 cards of your deck; reveal 1 green East Blue type card other than Nami and add it to your hand. Then, place the remaining cards at the bottom of the deck in any order. [Trigger] Play this card.",
     "traits": [
       "East Blue",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Green"
@@ -10957,7 +10957,7 @@
     "power": 5000,
     "effect": "This Leader can not attack. Acitvate:Main DON!!-1 You may rest this Leader: Play up to 1 Character with the Galley-La Company type that costs 5 or less from your hand.",
     "traits": [
-      "Water Seven",
+      "Water 7",
       "Galley-La Company"
     ],
     "color": [
@@ -12170,7 +12170,7 @@
     "traits": [
       "Fish-Man",
       "East Blue",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Green"
@@ -12279,7 +12279,7 @@
     "traits": [
       "Fish-Man",
       "East Blue",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Green"
@@ -12358,7 +12358,7 @@
     "traits": [
       "Fish-Man",
       "East Blue",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Green"
@@ -12437,7 +12437,7 @@
     "traits": [
       "Fish-Man",
       "East Blue",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Green"
@@ -13723,7 +13723,7 @@
     "effect": "",
     "traits": [
       "Mermaid",
-      "Sun Pirates"
+      "The Sun Pirates"
     ],
     "color": [
       "Yellow"
@@ -13931,7 +13931,7 @@
     "power": 10000,
     "effect": "[On Play] You may trash 1 card from your hand: KO all characters with a cost of 1 or less.",
     "traits": [
-      "Red Haired Pirates"
+      "Red-Haired Pirates"
     ],
     "color": [
       "Black"
@@ -13982,7 +13982,7 @@
     "power": 2000,
     "effect": "[On Play] Give up to 1 of your opponents Characters -2 cost during this turn.",
     "traits": [
-      "Mountain Bandit"
+      "Mountain Bandits"
     ],
     "color": [
       "Black"
@@ -14007,7 +14007,7 @@
     "power": 1000,
     "effect": "<Blocker>  [Trigger] Play this card.",
     "traits": [
-      "Alabasta Kingdom"
+      "Alabasta"
     ],
     "color": [
       "Black"
@@ -14698,7 +14698,7 @@
     "power": 5000,
     "effect": "This Leader cannot attack. [Activate Main] [Once per Turn] (2 DON!!): Draw 1 card, and up to 1 of your Characters gains <Rush> during this turn.",
     "traits": [
-      "Alabasta Kingdom"
+      "Alabasta"
     ],
     "color": [
       "Red",
@@ -14935,7 +14935,7 @@
     "power": 3000,
     "effect": "[When Attacking] You may give one of your active Leaders -5000 Power this turn: This character gains +2000 Power until the start of your next turn.",
     "traits": [
-      "Alabasta Kingdom"
+      "Alabasta"
     ],
     "color": [
       "Red"
@@ -14962,7 +14962,7 @@
     "effect": "If you have a Kung-Fu Dugong in play other than this Character, this Character gains <Blocker>",
     "traits": [
       "Animal",
-      "Alabasta Kingdom"
+      "Alabasta"
     ],
     "color": [
       "Red"
@@ -14988,7 +14988,7 @@
     "power": 9000,
     "effect": "<Banish>",
     "traits": [
-      "Alabasta Kingdom",
+      "Alabasta",
       "Straw Hat Crew"
     ],
     "color": [
@@ -15490,7 +15490,7 @@
     "power": 4000,
     "effect": "All of your Red Characters with a cost of 3 or more other than this Character gain <Rush>",
     "traits": [
-      "Alabasta Kingdom"
+      "Alabasta"
     ],
     "color": [
       "Red"
@@ -16534,7 +16534,7 @@
     "power": 0,
     "effect": "[On Your Opponents Attack] DON!! -1: If your Leader has the Water Seven type, this Character gains <Blocker> during this turn. ",
     "traits": [
-      "Water Seven",
+      "Water 7",
       "Galley-La Company"
     ],
     "color": [
@@ -16563,7 +16563,7 @@
     "effect": "[Activate Main] You may trash this Character: If your Leader has the Water Seven type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "traits": [
       "Fish-Man",
-      "Water Seven"
+      "Water 7"
     ],
     "color": [
       "Purple"
@@ -20436,7 +20436,7 @@
     "power": 0,
     "effect": "[Activate Main] (1 DON!!) You may rest this Character and place 2 cards from your trash at the bottom of your deck in any order: Add up to 1 black Character card with a cost of 3 to 5 from your trash to your hand.",
     "traits": [
-      "The Tontattas",
+      "Tontatta",
       "Dressrosa"
     ],
     "color": [
@@ -20593,7 +20593,7 @@
     "power": 0,
     "effect": "[Activate Main] Give up to 1 of your opponents Characters -3 cost during this turn. Then, up to 1 of your opponents Characters with a cost of 0 will not become active in the next Refresh Phase. [Trigger] Draw 2 cards and trash 1 card from your hand.",
     "traits": [
-      "The Tontattas",
+      "Tontatta",
       "Dressrosa"
     ],
     "color": [
@@ -21975,7 +21975,7 @@
     "traits": [
       "FILM",
       "Four Emperors",
-      "Red Haired Pirates"
+      "Red-Haired Pirates"
     ],
     "color": [
       "Red"
@@ -22212,7 +22212,7 @@
     "effect": "DON!! x1 [When Attacking] (2 DON!!) You may discard 1 card from your hand: Trash the top 2 cards of your deck. Then play up to 1 Thriller Bark Pirates type Character card with a cost of 4 or less from your trash.",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pira"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Black"
@@ -22344,7 +22344,7 @@
     "effect": "[On Play] Choose up to 1 Character card with a cost of 4 or less and up to 1 Character card with a cost of 2 or less from your trash. Play 1 card and play the other card rested.",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pira"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Black"
@@ -23811,7 +23811,7 @@
     "effect": "[On Play] You may trash 1 card from your hand: If the number of DON!! cards on your field is equal to or less than the number on your opponents field, add up to 1 The Vinsmoke Family type Character card with 4000 power or less from your trash to your hand.",
     "traits": [
       "The Vinsmoke Family",
-      "Kingdom of GERMA"
+      "GERMA 66"
     ],
     "color": [
       "Purple"
@@ -24054,7 +24054,7 @@
     "power": 0,
     "effect": "If your Leader has the GERMA 66 type and the number of DON!! cards on your field is at least 2 less than the number on your opponents field, this Character gains <Blocker>. ",
     "traits": [
-      "Kingdom of GERMA"
+      "GERMA 66"
     ],
     "color": [
       "Purple"
@@ -24237,7 +24237,7 @@
     "power": 0,
     "effect": "[Activate Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 card with a type including GERMA and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
     "traits": [
-      "Kingdom of Germa"
+      "GERMA 66"
     ],
     "color": [
       "Purple"
@@ -24314,7 +24314,7 @@
     "effect": "[Activate Main]/[Counter] Your Leader gains +1000 power during this turn. Then, you may KO any number of your Thriller Bark Pirates type Characters with a cost of 2 or less. Your Leader gains an additional +1000 power during this turn for every Character KOd. [Trigger] Draw 2 cards and trash 1 card from your hand.",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pirate"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Black"
@@ -24442,7 +24442,7 @@
     "traits": [
       "Minks",
       "Land of Wano",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Yellow"
@@ -24523,7 +24523,7 @@
     "traits": [
       "Fish-Man",
       "Land of Wano",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Yellow"
@@ -24551,7 +24551,7 @@
     "effect": "[On KO] If your opponent has 3 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. [Trigger] If your opponent has 3 or less Life cards, play this card.",
     "traits": [
       "Land of Wano",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Yellow"
@@ -24684,7 +24684,7 @@
     "effect": "DON!! x2 If your opponent has 3 or less Life cards, this Character cannot be KOd by effects. [Trigger] If your opponent has 3 or less Life cards, play this card.",
     "traits": [
       "Land of Wano",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Yellow"
@@ -24713,7 +24713,7 @@
     "traits": [
       "Minks",
       "Land of Wano",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Yellow"
@@ -24768,7 +24768,7 @@
     "effect": "[When Attacking] You may trash 1 card from your hand: Rest up to 1 of your opponents DON!! cards. [Trigger] If your opponent has 3 or less Life cards, play this card.",
     "traits": [
       "Land of Wano",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Yellow"
@@ -24980,7 +24980,7 @@
     "power": 5000,
     "effect": "<Rush> [When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 Power during this turn",
     "traits": [
-      "Supernova",
+      "Supernovas",
       "Kid Pirates"
     ],
     "color": [
@@ -25390,7 +25390,7 @@
     "power": 0,
     "effect": "[Counter] Give up to 1 of your Leader or Characters Power +4000 for this battle. Then, look at the top 3 cards of your deck, reveal up to 1 Donquixote Pirates type Character card and add it to your hand. Then, return the remaining cards to the bottom of your deck in your desired order.",
     "traits": [
-      "The Seven Warlords",
+      "The Seven Warlords of the Sea",
       "Donquixote Pirates"
     ],
     "color": [
@@ -25491,7 +25491,7 @@
     "power": 6000,
     "effect": "[On Play] Draw 1 card.",
     "traits": [
-      "Seven Warlords of the Sea"
+      "The Seven Warlords of the Sea"
     ],
     "color": [
       "Blue"
@@ -25697,7 +25697,7 @@
     "effect": "[On Play] DON!! -1: If your Leader has the Water 7 type, return up to 2 cost 4 or less character cards from your trash to your hand.",
     "traits": [
       "Water 7",
-      "Galley-la Company"
+      "Galley-La Company"
     ],
     "color": [
       "Purple"
@@ -27549,7 +27549,7 @@
     "effect": "Once Per Turn If your Leader has the The Seven Warlords of the Sea type and this Character would be removed from the field by your opponents effect, you may place 1 of your Characters other than Gecko Moria at the bottom of the owners deck instead.",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pirate"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Blue"
@@ -27628,7 +27628,7 @@
     "traits": [
       "Fish-Man",
       "The Seven Warlords of the Sea",
-      "The Sun Pir"
+      "The Sun Pirates"
     ],
     "color": [
       "Blue"
@@ -28034,7 +28034,7 @@
     "power": 0,
     "effect": "[On Play] DON!! -1: If your Leader has the The Vinsmoke Family type, draw 1 card.",
     "traits": [
-      "Kingdom of GERMA",
+      "GERMA 66",
       "The Vinsmoke Family"
     ],
     "color": [
@@ -28062,7 +28062,7 @@
     "power": 2000,
     "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponents field, return up to 1 of your The Vinsmoke Family type Characters with a cost of 1 to the owners hand.",
     "traits": [
-      "Kingdom of GERMA",
+      "GERMA 66",
       "The Vinsmoke Family"
     ],
     "color": [
@@ -28605,7 +28605,7 @@
     "effect": "[Activate Main] You may place 4 Thriller Bark Pirates type cards from your trash at the bottom of your deck in any order: This Character gains <Banish> and +1000 power during this turn. ",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pirate"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Black"
@@ -29497,7 +29497,7 @@
     "effect": "[Activate Main]/[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, if your opponent has 2 or less Life cards, rest up to 1 of your opponents Characters with a cost of 4 or less. [Trigger] Rest up to 1 of your opponents Characters with a cost of 4 or less.",
     "traits": [
       "Land of Wano",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Yellow"
@@ -31079,7 +31079,7 @@
     "effect": "[On Play] If your Leader has the Minks type, up to 2 of your opponents rested Characters with a cost of 5 or less will not become active in your opponents next Refresh Phase.",
     "traits": [
       "Minks",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Green"
@@ -31231,7 +31231,7 @@
     "effect": "[On Play] If your opponent has 7 or more rested cards, this Character gains <Rush> during this turn. ",
     "traits": [
       "Minks",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Green"
@@ -31482,7 +31482,7 @@
     "effect": "[Activate Main] You may rest 2 of your Characters: None of your Characters can be KOd by your opponents effects until the end of your opponents next turn. [Trigger] Rest up to 1 of your opponents Characters with a cost of 3 or less.",
     "traits": [
       "Minks",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Green"
@@ -32470,7 +32470,7 @@
     "traits": [
       "The Four Emperors",
       "Animal Kingdom Pirates",
-      "Big Mom P"
+      "Big Mom Pirates"
     ],
     "color": [
       "Purple"
@@ -33600,7 +33600,7 @@
     "traits": [
       "The Four Emperors",
       "Animal Kingdom Pirates",
-      "Big Mom P"
+      "Big Mom Pirates"
     ],
     "color": [
       "Purple"

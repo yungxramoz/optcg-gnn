@@ -685,7 +685,7 @@
     "traits": [
       "Fish-Man",
       "East Blue",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Green"
@@ -743,7 +743,7 @@
     "traits": [
       "Fish-Man",
       "East Blue",
-      "Arlong Crew"
+      "Arlong Pirates"
     ],
     "color": [
       "Green"
@@ -1278,7 +1278,7 @@
     "power": 0,
     "effect": "[On Your Opponents Attack] DON!! -1: If your Leader has the Water Seven type, this Character gains <Blocker> during this turn. ",
     "traits": [
-      "Water Seven",
+      "Water 7",
       "Galley-La Company"
     ],
     "color": [
@@ -1307,7 +1307,7 @@
     "effect": "[Activate Main] You may trash this Character: If your Leader has the Water Seven type, add up to 1 DON!! card from your DON!! deck and rest it.",
     "traits": [
       "Fish-Man",
-      "Water Seven"
+      "Water 7"
     ],
     "color": [
       "Purple"
@@ -2066,7 +2066,7 @@
     "power": 0,
     "effect": "If your Leader has the GERMA 66 type and the number of DON!! cards on your field is at least 2 less than the number on your opponents field, this Character gains <Blocker>. ",
     "traits": [
-      "Kingdom of GERMA"
+      "GERMA 66"
     ],
     "color": [
       "Purple"
@@ -2281,7 +2281,7 @@
     "effect": "[On Play] DON!! -1: If your Leader has the Water 7 type, return up to 2 cost 4 or less character cards from your trash to your hand.",
     "traits": [
       "Water 7",
-      "Galley-la Company"
+      "Galley-La Company"
     ],
     "color": [
       "Purple"
@@ -2554,7 +2554,7 @@
     "effect": "Once Per Turn If your Leader has the The Seven Warlords of the Sea type and this Character would be removed from the field by your opponents effect, you may place 1 of your Characters other than Gecko Moria at the bottom of the owners deck instead.",
     "traits": [
       "The Seven Warlords of the Sea",
-      "Thriller Bark Pirate"
+      "Thriller Bark Pirates"
     ],
     "color": [
       "Blue"
@@ -2629,7 +2629,7 @@
     "power": 0,
     "effect": "[On Play] DON!! -1: If your Leader has the The Vinsmoke Family type, draw 1 card.",
     "traits": [
-      "Kingdom of GERMA",
+      "GERMA 66",
       "The Vinsmoke Family"
     ],
     "color": [
@@ -3094,7 +3094,7 @@
     "effect": "[On Play] If your Leader has the Minks type, up to 2 of your opponents rested Characters with a cost of 5 or less will not become active in your opponents next Refresh Phase.",
     "traits": [
       "Minks",
-      "The Akazaya Nine"
+      "Nine Red Scabbards"
     ],
     "color": [
       "Green"
@@ -3404,7 +3404,7 @@
     "traits": [
       "The Four Emperors",
       "Animal Kingdom Pirates",
-      "Big Mom P"
+      "Big Mom Pirates"
     ],
     "color": [
       "Purple"
