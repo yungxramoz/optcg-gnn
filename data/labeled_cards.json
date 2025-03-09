@@ -49,7 +49,6 @@
     "labels": [
       "Board Wipe",
       "Don Minus",
-      "Leader Locked",
       "High Cost"
     ],
     "archetype": ""
@@ -305,7 +304,6 @@
     "labels": [
       "Blocker",
       "Trash Interaction",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -648,7 +646,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -699,7 +696,6 @@
     "counter": 1000,
     "labels": [
       "Buff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -1391,7 +1387,6 @@
     "counter": 0,
     "labels": [
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -2032,7 +2027,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -2083,7 +2077,6 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Leader Locked",
       "Restand Don",
       "Mid Cost"
     ],
@@ -2568,7 +2561,6 @@
     "counter": 0,
     "labels": [
       "Counter",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -4802,7 +4794,6 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -5761,7 +5752,6 @@
     "counter": 1000,
     "labels": [
       "Blocker",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -5888,7 +5878,6 @@
     "counter": 0,
     "labels": [
       "Debuff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -6308,7 +6297,6 @@
     "labels": [
       "Rush",
       "Debuff Power",
-      "Leader Locked",
       "High Cost"
     ],
     "archetype": ""
@@ -6916,7 +6904,6 @@
       "Trigger",
       "Removal",
       "Debuff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -7504,7 +7491,6 @@
       "Trigger",
       "Draw",
       "Discard",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -7580,7 +7566,6 @@
     "labels": [
       "Draw",
       "Discard",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -7842,7 +7827,6 @@
     "counter": 1000,
     "labels": [
       "Double Attack",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -8201,7 +8185,7 @@
   },
   {
     "id": "OP02-112",
-    "name": "Bell-m\u00c3\u00a8re",
+    "name": "Bell-mere",
     "type": "Character",
     "cost": 1,
     "power": 1000,
@@ -8507,6 +8491,32 @@
       "Banish",
       "Don Minus",
       "High Cost"
+    ],
+    "archetype": ""
+  },
+  {
+    "id": "P-006",
+    "name": "Monkey D. Luffy",
+    "type": "Character",
+    "cost": 3,
+    "power": 3000,
+    "effect": "DON!! x2 Your Turn This Character gains +2000 Power.",
+    "traits": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "color": [
+      "Red"
+    ],
+    "attribute": [
+      "Strike"
+    ],
+    "rarity": 7,
+    "life": 0,
+    "counter": 2000,
+    "labels": [
+      "Buff Power",
+      "Low Cost"
     ],
     "archetype": ""
   },
@@ -10136,7 +10146,6 @@
     "counter": 0,
     "labels": [
       "Cost Reduction",
-      "Leader Locked",
       "Rest Character",
       "Low Cost"
     ],
@@ -10839,7 +10848,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Rest Character",
       "Mid Cost"
     ],
@@ -11330,7 +11338,6 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -11383,7 +11390,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -11511,7 +11517,6 @@
     "counter": 1000,
     "labels": [
       "Removal",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -11537,7 +11542,6 @@
       "Double Attack",
       "Trigger",
       "Removal",
-      "Leader Locked",
       "High Cost"
     ],
     "archetype": ""
@@ -11563,7 +11567,6 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Leader Locked",
       "High Cost"
     ],
     "archetype": ""
@@ -11590,7 +11593,6 @@
     "counter": 1000,
     "labels": [
       "Don Ramp",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -12080,7 +12082,6 @@
       "Counter",
       "Trigger",
       "Debuff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -12129,7 +12130,6 @@
     "counter": 0,
     "labels": [
       "Searcher",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -12184,7 +12184,6 @@
     "labels": [
       "Trigger",
       "Summon",
-      "Leader Locked",
       "Rest Character",
       "Mid Cost"
     ],
@@ -12212,7 +12211,6 @@
     "counter": 1000,
     "labels": [
       "Summon",
-      "Leader Locked",
       "Rest Character",
       "Low Cost"
     ],
@@ -12372,7 +12370,6 @@
     "labels": [
       "Trigger",
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -12632,7 +12629,7 @@
   },
   {
     "id": "OP03-051",
-    "name": "Bell-M\u00c3\u00a8re",
+    "name": "Bell-Mere",
     "type": "Character",
     "cost": 4,
     "power": 5000,
@@ -12885,7 +12882,6 @@
       "Blocker",
       "Draw",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -12938,7 +12934,6 @@
     "counter": 1000,
     "labels": [
       "Banish",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -12966,7 +12961,6 @@
     "labels": [
       "Draw",
       "Discard",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -13019,7 +13013,6 @@
       "Trigger",
       "Removal",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -13294,7 +13287,6 @@
     "labels": [
       "Removal",
       "Discard",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -13320,7 +13312,6 @@
       "Trigger",
       "Summon",
       "Trash Interaction",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -13424,7 +13415,6 @@
       "Trigger",
       "Cost Reduction",
       "Summon",
-      "Leader Locked",
       "Rest Character",
       "Low Cost"
     ],
@@ -15131,7 +15121,6 @@
     "counter": 1000,
     "labels": [
       "Searcher",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -15211,7 +15200,6 @@
     "labels": [
       "Draw",
       "Don Minus",
-      "Leader Locked",
       "High Cost"
     ],
     "archetype": ""
@@ -15239,7 +15227,6 @@
     "labels": [
       "Buff Power",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -15400,7 +15387,6 @@
     "counter": 1000,
     "labels": [
       "Mill",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -15527,7 +15513,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Rest Character",
       "Low Cost"
     ],
@@ -15577,7 +15562,6 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -15734,7 +15718,6 @@
     "labels": [
       "Removal",
       "Debuff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -15865,7 +15848,6 @@
     "labels": [
       "Counter",
       "Debuff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -15890,7 +15872,6 @@
     "labels": [
       "Trigger",
       "Debuff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -15989,7 +15970,6 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Leader Locked",
       "Restand Don",
       "Rest Character",
       "Low Cost"
@@ -16066,7 +16046,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Restand Don",
       "Rest Character",
       "Mid Cost"
@@ -16169,7 +16148,6 @@
       "Counter",
       "Trigger",
       "Buff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -16549,7 +16527,6 @@
     "labels": [
       "Blocker",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -16575,7 +16552,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -16628,7 +16604,6 @@
       "Trigger",
       "Summon",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -16974,7 +16949,6 @@
       "Removal",
       "Mill",
       "Protection",
-      "Leader Locked",
       "Rest Character",
       "Low Cost"
     ],
@@ -17027,7 +17001,6 @@
     "labels": [
       "Mill",
       "Cost Reduction",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -17799,7 +17772,7 @@
       "Don Minus",
       "Low Cost"
     ],
-    "archetype": "Aggro"
+    "archetype": "Combo"
   },
   {
     "id": "ST10-002",
@@ -18333,7 +18306,6 @@
     "counter": 1000,
     "labels": [
       "Debuff Power",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -18359,7 +18331,6 @@
     "counter": 2000,
     "labels": [
       "Debuff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -18434,7 +18405,6 @@
     "counter": 2000,
     "labels": [
       "Draw",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -18488,7 +18458,6 @@
       "Trigger",
       "Removal",
       "Summon",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -18618,7 +18587,6 @@
       "Trigger",
       "Discard",
       "Summon",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -18648,7 +18616,6 @@
       "Removal",
       "Discard",
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -19014,7 +18981,7 @@
     "type": "Character",
     "cost": 4,
     "power": 6000,
-    "effect": "[End of Your Turn] \u00e2\u2018\u00a0: Set this Character as active. Once Per Turn If this Character would be KOd, you may rest 1 of your Characters with a cost of 3 or more other than Pica instead.",
+    "effect": "[End of Your Turn] (1 DON!!): Set this Character as active. Once Per Turn If this Character would be KOd, you may rest 1 of your Characters with a cost of 3 or more other than Pica instead.",
     "traits": [
       "Donquixote Pirates"
     ],
@@ -19233,7 +19200,6 @@
     "counter": 0,
     "labels": [
       "Board Wipe",
-      "Leader Locked",
       "Stun",
       "Mid Cost"
     ],
@@ -19312,7 +19278,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -19715,7 +19680,6 @@
     "labels": [
       "Trigger",
       "Draw",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -20587,7 +20551,7 @@
   },
   {
     "id": "OP05-094",
-    "name": "Haute Couture Patch\u00e2\u02dc\u2026Work",
+    "name": "Haute Couture Patch Work",
     "type": "Event",
     "cost": 1,
     "power": 0,
@@ -20645,7 +20609,7 @@
     "type": "Event",
     "cost": 3,
     "power": 0,
-    "effect": "[Activate Main] Choose one: \u00e2\u20ac\u00a2 KO up to 1 of your opponents Characters with a cost of 1 or less. \u00e2\u20ac\u00a2 Return up to 1 of your opponents Characters with a cost of 1 or less to the owners hand. \u00e2\u20ac\u00a2 Place up to 1 of your opponents Characters with a cost of 1 or less at the top or bottom of their Life cards face-up. Then, if you have a Celestial Dragons type Character, draw 1 card. [Trigger] KO up to 1 of your opponents Characters with a cost of 6 or less, or return it to the owners hand.",
+    "effect": "[Activate Main] Choose one:  KO up to 1 of your opponents Characters with a cost of 1 or less.  Return up to 1 of your opponents Characters with a cost of 1 or less to the owners hand.  Place up to 1 of your opponents Characters with a cost of 1 or less at the top or bottom of their Life cards face-up. Then, if you have a Celestial Dragons type Character, draw 1 card. [Trigger] KO up to 1 of your opponents Characters with a cost of 6 or less, or return it to the owners hand.",
     "traits": [
       "Celestial Dragons"
     ],
@@ -21310,7 +21274,7 @@
     "type": "Event",
     "cost": 2,
     "power": 0,
-    "effect": "[Activate Main] If your Leader is Uta, choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents Characters with a cost of 5 or less. \u00e2\u20ac\u00a2 KO up to 1 of your opponents rested Characters with a cost of 5 or less.",
+    "effect": "[Activate Main] If your Leader is Uta, choose one:  Rest up to 1 of your opponents Characters with a cost of 5 or less.  KO up to 1 of your opponents rested Characters with a cost of 5 or less.",
     "traits": [
       "Music",
       "FILM"
@@ -21323,7 +21287,6 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Leader Locked",
       "Rest Character",
       "Low Cost"
     ],
@@ -21348,7 +21311,6 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Leader Locked",
       "Restand Don",
       "Low Cost"
     ],
@@ -21516,7 +21478,7 @@
     "type": "Character",
     "cost": 2,
     "power": 3000,
-    "effect": "DON!! x1 [When Attacking] Choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents Characters with a cost of 2 or less. \u00e2\u20ac\u00a2 KO up to 1 of your opponents rested Characters with a cost of 2 or less.",
+    "effect": "DON!! x1 [When Attacking] Choose one:  Rest up to 1 of your opponents Characters with a cost of 2 or less.  KO up to 1 of your opponents rested Characters with a cost of 2 or less.",
     "traits": [
       "East Blue"
     ],
@@ -22066,7 +22028,6 @@
     "counter": 1000,
     "labels": [
       "Blocker",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -22280,7 +22241,6 @@
     "labels": [
       "Draw",
       "Discard",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -22444,7 +22404,7 @@
     "type": "Character",
     "cost": 6,
     "power": 6000,
-    "effect": "[On Play] Choose one: \u00e2\u20ac\u00a2 Trash up to 1 of your opponents Characters with a cost of 4 or less. \u00e2\u20ac\u00a2 Your opponent places 3 cards from their trash at the bottom of their deck in any order.",
+    "effect": "[On Play] Choose one:  Trash up to 1 of your opponents Characters with a cost of 4 or less.  Your opponent places 3 cards from their trash at the bottom of their deck in any order.",
     "traits": [
       "Former Rumbar Pirates"
     ],
@@ -22469,7 +22429,7 @@
     "type": "Character",
     "cost": 4,
     "power": 5000,
-    "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one: \u00e2\u20ac\u00a2 Your opponent trashes 1 card from their hand. \u00e2\u20ac\u00a2 Give up to 1 of your opponents Characters -3 cost during this turn.",
+    "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one:  Your opponent trashes 1 card from their hand.  Give up to 1 of your opponents Characters -3 cost during this turn.",
     "traits": [
       "Thriller Bark Pirates"
     ],
@@ -22509,7 +22469,6 @@
     "labels": [
       "Summon",
       "Trash Interaction",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -22724,7 +22683,7 @@
     "type": "Leader",
     "cost": 0,
     "power": 5000,
-    "effect": "[Activate Main] Once Per Turn Choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents Characters with a cost of 4 or less. \u00e2\u20ac\u00a2 Give up to 1 of your opponents Characters -1 cost during this turn.",
+    "effect": "[Activate Main] Once Per Turn Choose one:  Rest up to 1 of your opponents Characters with a cost of 4 or less.  Give up to 1 of your opponents Characters -1 cost during this turn.",
     "traits": [
       "Thriller Bark Pirates"
     ],
@@ -22823,7 +22782,6 @@
     "counter": 1000,
     "labels": [
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -22923,7 +22881,6 @@
     "counter": 2000,
     "labels": [
       "Buff Power",
-      "Leader Locked",
       "Restand Don",
       "Low Cost"
     ],
@@ -22951,7 +22908,6 @@
     "counter": 1000,
     "labels": [
       "Buff Power",
-      "Leader Locked",
       "Restand Character",
       "Low Cost"
     ],
@@ -22980,7 +22936,6 @@
     "labels": [
       "Buff Power",
       "Protection",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -23175,7 +23130,7 @@
     "type": "Event",
     "cost": 4,
     "power": 0,
-    "effect": "[Activate Main] Choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents Characters with a cost of 6 or less. \u00e2\u20ac\u00a2 KO up to 1 of your opponents rested Characters with a cost of 6 or less. [Trigger] Activate this cards [Activate Main] effect.",
+    "effect": "[Activate Main] Choose one:  Rest up to 1 of your opponents Characters with a cost of 6 or less.  KO up to 1 of your opponents rested Characters with a cost of 6 or less. [Trigger] Activate this cards [Activate Main] effect.",
     "traits": [
       "Straw Hat Crew"
     ],
@@ -23441,7 +23396,6 @@
     "labels": [
       "Blocker",
       "Mill",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -23741,7 +23695,6 @@
     "labels": [
       "Summon",
       "Don Minus",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -23852,7 +23805,6 @@
     "labels": [
       "Summon",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -23863,7 +23815,7 @@
     "type": "Character",
     "cost": 5,
     "power": 6000,
-    "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponents field, choose one: \u00e2\u20ac\u00a2 KO up to 1 of your opponents Characters with a cost of 2 or less. \u00e2\u20ac\u00a2 Return up to 1 of your opponents Characters with a cost of 4 or less to the owners hand.",
+    "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponents field, choose one:  KO up to 1 of your opponents Characters with a cost of 2 or less.  Return up to 1 of your opponents Characters with a cost of 4 or less to the owners hand.",
     "traits": [
       "The Vinsmoke Family",
       "GERMA 66"
@@ -23906,7 +23858,6 @@
     "labels": [
       "Summon",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -23961,7 +23912,6 @@
     "labels": [
       "Summon",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -24041,7 +23991,6 @@
     "labels": [
       "Don Minus",
       "Trash Interaction",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -24067,7 +24016,6 @@
     "counter": 1000,
     "labels": [
       "Blocker",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -24300,7 +24248,6 @@
     "counter": 1000,
     "labels": [
       "Buff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -24354,7 +24301,6 @@
     "counter": 2000,
     "labels": [
       "Mill",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -24872,7 +24818,7 @@
     "type": "Event",
     "cost": 4,
     "power": 0,
-    "effect": "[Activate Main] Choose one: \u00e2\u20ac\u00a2 KO up to 1 of your opponents Characters with a cost of 5 or less. \u00e2\u20ac\u00a2 If your opponent has 1 Life card, deal 1 damage to your opponent. Then, add 1 card from the top of your Life cards to your hand. [Trigger] Draw 1 card.",
+    "effect": "[Activate Main] Choose one:  KO up to 1 of your opponents Characters with a cost of 5 or less.  If your opponent has 1 Life card, deal 1 damage to your opponent. Then, add 1 card from the top of your Life cards to your hand. [Trigger] Draw 1 card.",
     "traits": [
       "Sky Island",
       "Shandian Warrior"
@@ -24967,7 +24913,6 @@
       "Debuff Power",
       "Discard",
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -25222,7 +25167,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Restand Don",
       "Mid Cost"
     ],
@@ -25427,7 +25371,6 @@
     "counter": 0,
     "labels": [
       "Trigger",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -25607,7 +25550,6 @@
       "Buff Power",
       "Draw",
       "Discard",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -25633,7 +25575,6 @@
     "labels": [
       "Counter",
       "Trigger",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -25711,7 +25652,6 @@
     "labels": [
       "Don Minus",
       "Trash Interaction",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -25764,7 +25704,6 @@
     "labels": [
       "Summon",
       "Don Minus",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -25791,7 +25730,6 @@
     "labels": [
       "Blocker",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -25819,7 +25757,6 @@
       "Trigger",
       "Summon",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -25846,7 +25783,6 @@
     "counter": 0,
     "labels": [
       "Rush",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -25898,7 +25834,6 @@
       "Trigger",
       "Draw",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -26813,7 +26748,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -26991,7 +26925,6 @@
     "labels": [
       "Blocker",
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -27226,7 +27159,6 @@
     "labels": [
       "Blocker",
       "Protection",
-      "Leader Locked",
       "Rest Character",
       "Mid Cost"
     ],
@@ -27306,7 +27238,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Rest Character",
       "Mid Cost"
     ],
@@ -27497,7 +27428,7 @@
     "type": "Character",
     "cost": 4,
     "power": 5000,
-    "effect": "[On Play] \u00e2\u2018\u00a0: Return up to 1 Character with a cost of 2 or less to the owners hand.",
+    "effect": "[On Play] (1 DON!!): Return up to 1 Character with a cost of 2 or less to the owners hand.",
     "traits": [
       "The Seven Warlords of the Sea",
       "Baroque Works"
@@ -27562,7 +27493,6 @@
     "counter": 0,
     "labels": [
       "Protection",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -27970,7 +27900,6 @@
     "counter": 0,
     "labels": [
       "Discard",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -28021,7 +27950,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -28049,7 +27977,6 @@
     "labels": [
       "Draw",
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -28101,7 +28028,6 @@
     "counter": 1000,
     "labels": [
       "Don Minus",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -28152,7 +28078,6 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -28305,7 +28230,6 @@
     "counter": 0,
     "labels": [
       "Debuff Power",
-      "Leader Locked",
       "High Cost"
     ],
     "archetype": ""
@@ -28383,7 +28307,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -28460,7 +28383,6 @@
     "counter": 0,
     "labels": [
       "Trigger",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -28967,7 +28889,7 @@
     "type": "Leader",
     "cost": 0,
     "power": 5000,
-    "effect": "This Leader cannot attack. [Activate Main] Once Per Turn \u00e2\u2018\u00a0: Select up to 1 Egghead type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+    "effect": "This Leader cannot attack. [Activate Main] Once Per Turn (1 DON!!): Select up to 1 Egghead type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
     "traits": [
       "Scientist",
       "Egghead"
@@ -29012,7 +28934,6 @@
       "Trigger",
       "Protection",
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -29069,7 +28990,6 @@
       "Draw",
       "Discard",
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -29098,7 +29018,6 @@
       "Blocker",
       "Trigger",
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -29182,7 +29101,6 @@
     "labels": [
       "Trigger",
       "Draw",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -29211,7 +29129,6 @@
       "Trigger",
       "Summon",
       "Trash Interaction",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -29348,7 +29265,6 @@
       "Trigger",
       "Removal",
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -29376,7 +29292,6 @@
     "labels": [
       "Trigger",
       "Summon",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -29430,7 +29345,6 @@
     "counter": 1000,
     "labels": [
       "Trigger",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -30522,7 +30436,6 @@
     "labels": [
       "Draw",
       "Increase Cost",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -30835,7 +30748,6 @@
     "counter": 1000,
     "labels": [
       "Removal",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -30937,7 +30849,6 @@
     "counter": 2000,
     "labels": [
       "Buff Power",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -31091,7 +31002,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Stun",
       "Mid Cost"
     ],
@@ -31280,7 +31190,7 @@
     "type": "Character",
     "cost": 4,
     "power": 5000,
-    "effect": "<Blocker> [On KO] Choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents DON!! cards. \u00e2\u20ac\u00a2 KO up to 1 of your opponents rested Characters with a cost of 6 or less.",
+    "effect": "<Blocker> [On KO] Choose one:  Rest up to 1 of your opponents DON!! cards.  KO up to 1 of your opponents rested Characters with a cost of 6 or less.",
     "traits": [
       "Minks"
     ],
@@ -31343,7 +31253,6 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "Leader Locked",
       "Restand Don",
       "Low Cost"
     ],
@@ -31369,7 +31278,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -31516,7 +31424,6 @@
     "life": 0,
     "counter": 0,
     "labels": [
-      "Leader Locked",
       "Restand Don",
       "Low Cost"
     ],
@@ -31543,7 +31450,6 @@
     "counter": 1000,
     "labels": [
       "Removal",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -31568,7 +31474,6 @@
     "life": 0,
     "counter": 2000,
     "labels": [
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -31619,7 +31524,6 @@
     "counter": 0,
     "labels": [
       "Hand Destruction",
-      "Leader Locked",
       "High Cost"
     ],
     "archetype": ""
@@ -31645,7 +31549,6 @@
     "counter": 2000,
     "labels": [
       "Hand Destruction",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -31744,7 +31647,6 @@
     "life": 0,
     "counter": 1000,
     "labels": [
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -31871,7 +31773,6 @@
     "labels": [
       "Trigger",
       "Draw",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -31954,7 +31855,7 @@
     "type": "Leader",
     "cost": 0,
     "power": 5000,
-    "effect": "[Activate Main] Once Per Turn DON!! -2: Choose one: \u00e2\u20ac\u00a2 If you have 5 or less cards in your hand, draw 1 card. \u00e2\u20ac\u00a2 Give up to 1 of your opponents Characters -2 cost during this turn.",
+    "effect": "[Activate Main] Once Per Turn DON!! -2: Choose one:  If you have 5 or less cards in your hand, draw 1 card.  Give up to 1 of your opponents Characters -2 cost during this turn.",
     "traits": [
       "Animal Kingdom Pirates"
     ],
@@ -32023,7 +31924,6 @@
     "counter": 1000,
     "labels": [
       "Summon",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -32101,7 +32001,6 @@
     "counter": 1000,
     "labels": [
       "Summon",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -32482,7 +32381,6 @@
     "labels": [
       "Removal",
       "Don Minus",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -33012,7 +32910,6 @@
       "Trigger",
       "Removal",
       "Cost Reduction",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -33121,7 +33018,6 @@
       "Mill",
       "Gain Life",
       "Take Life",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -33335,7 +33231,6 @@
     "counter": 1000,
     "labels": [
       "Gain Life",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""
@@ -33505,7 +33400,6 @@
       "Draw",
       "Discard",
       "Summon",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""

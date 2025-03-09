@@ -376,7 +376,6 @@
     "counter": 0,
     "labels": [
       "Searcher",
-      "Leader Locked",
       "Low Cost"
     ],
     "archetype": ""
@@ -453,7 +452,6 @@
     "counter": 1000,
     "labels": [
       "Searcher",
-      "Leader Locked",
       "Mid Cost"
     ],
     "archetype": ""

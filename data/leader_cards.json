@@ -1119,7 +1119,7 @@
       "Don Minus",
       "Low Cost"
     ],
-    "archetype": "Aggro"
+    "archetype": "Combo"
   },
   {
     "id": "ST10-002",
@@ -1474,7 +1474,7 @@
     "type": "Leader",
     "cost": 0,
     "power": 5000,
-    "effect": "[Activate Main] Once Per Turn Choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents Characters with a cost of 4 or less. \u00e2\u20ac\u00a2 Give up to 1 of your opponents Characters -1 cost during this turn.",
+    "effect": "[Activate Main] Once Per Turn Choose one:  Rest up to 1 of your opponents Characters with a cost of 4 or less.  Give up to 1 of your opponents Characters -1 cost during this turn.",
     "traits": [
       "Thriller Bark Pirates"
     ],
@@ -1758,7 +1758,7 @@
     "type": "Leader",
     "cost": 0,
     "power": 5000,
-    "effect": "This Leader cannot attack. [Activate Main] Once Per Turn \u00e2\u2018\u00a0: Select up to 1 Egghead type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+    "effect": "This Leader cannot attack. [Activate Main] Once Per Turn (1 DON!!): Select up to 1 Egghead type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
     "traits": [
       "Scientist",
       "Egghead"
@@ -1974,7 +1974,7 @@
     "type": "Leader",
     "cost": 0,
     "power": 5000,
-    "effect": "[Activate Main] Once Per Turn DON!! -2: Choose one: \u00e2\u20ac\u00a2 If you have 5 or less cards in your hand, draw 1 card. \u00e2\u20ac\u00a2 Give up to 1 of your opponents Characters -2 cost during this turn.",
+    "effect": "[Activate Main] Once Per Turn DON!! -2: Choose one:  If you have 5 or less cards in your hand, draw 1 card.  Give up to 1 of your opponents Characters -2 cost during this turn.",
     "traits": [
       "Animal Kingdom Pirates"
     ],

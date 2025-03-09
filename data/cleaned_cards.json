@@ -6483,7 +6483,7 @@
   },
   {
     "id": "OP02-112",
-    "name": "Bell-m\u00c3\u00a8re",
+    "name": "Bell-mere",
     "type": "Character",
     "cost": "1",
     "power": "1000",
@@ -6716,6 +6716,27 @@
     "rarity": "7",
     "life": null,
     "counter": null
+  },
+  {
+    "id": "P-006",
+    "name": "Monkey D. Luffy",
+    "type": "Character",
+    "cost": "3",
+    "power": "3000",
+    "effect": "DON!! x2 Your Turn This Character gains +2000 Power.",
+    "traits": [
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
+    "color": [
+      "Red"
+    ],
+    "attribute": [
+      "Strike"
+    ],
+    "rarity": "7",
+    "life": null,
+    "counter": "2000"
   },
   {
     "id": "P-007",
@@ -9963,7 +9984,7 @@
   },
   {
     "id": "OP03-051",
-    "name": "Bell-M\u00c3\u00a8re",
+    "name": "Bell-Mere",
     "type": "Character",
     "cost": "4",
     "power": "5000",
@@ -14892,7 +14913,7 @@
     "type": "Character",
     "cost": "4",
     "power": "6000",
-    "effect": "[End of Your Turn] \u00e2\u2018\u00a0: Set this Character as active. Once Per Turn If this Character would be KOd, you may rest 1 of your Characters with a cost of 3 or more other than Pica instead.",
+    "effect": "[End of Your Turn] (1 DON!!): Set this Character as active. Once Per Turn If this Character would be KOd, you may rest 1 of your Characters with a cost of 3 or more other than Pica instead.",
     "traits": [
       "Donquixote Pirates"
     ],
@@ -16121,7 +16142,7 @@
   },
   {
     "id": "OP05-094",
-    "name": "Haute Couture Patch\u00e2\u02dc\u2026Work",
+    "name": "Haute Couture Patch Work",
     "type": "Event",
     "cost": "1",
     "power": null,
@@ -16163,7 +16184,7 @@
     "type": "Event",
     "cost": "3",
     "power": null,
-    "effect": "[Activate Main] Choose one: \u00e2\u20ac\u00a2 KO up to 1 of your opponents Characters with a cost of 1 or less. \u00e2\u20ac\u00a2 Return up to 1 of your opponents Characters with a cost of 1 or less to the owners hand. \u00e2\u20ac\u00a2 Place up to 1 of your opponents Characters with a cost of 1 or less at the top or bottom of their Life cards face-up. Then, if you have a Celestial Dragons type Character, draw 1 card. [Trigger] KO up to 1 of your opponents Characters with a cost of 6 or less, or return it to the owners hand.",
+    "effect": "[Activate Main] Choose one:  KO up to 1 of your opponents Characters with a cost of 1 or less.  Return up to 1 of your opponents Characters with a cost of 1 or less to the owners hand.  Place up to 1 of your opponents Characters with a cost of 1 or less at the top or bottom of their Life cards face-up. Then, if you have a Celestial Dragons type Character, draw 1 card. [Trigger] KO up to 1 of your opponents Characters with a cost of 6 or less, or return it to the owners hand.",
     "traits": [
       "Celestial Dragons"
     ],
@@ -16679,7 +16700,7 @@
     "type": "Event",
     "cost": "2",
     "power": null,
-    "effect": "[Activate Main] If your Leader is Uta, choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents Characters with a cost of 5 or less. \u00e2\u20ac\u00a2 KO up to 1 of your opponents rested Characters with a cost of 5 or less.",
+    "effect": "[Activate Main] If your Leader is Uta, choose one:  Rest up to 1 of your opponents Characters with a cost of 5 or less.  KO up to 1 of your opponents rested Characters with a cost of 5 or less.",
     "traits": [
       "Music",
       "FILM"
@@ -16841,7 +16862,7 @@
     "type": "Character",
     "cost": "2",
     "power": "3000",
-    "effect": "DON!! x1 [When Attacking] Choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents Characters with a cost of 2 or less. \u00e2\u20ac\u00a2 KO up to 1 of your opponents rested Characters with a cost of 2 or less.",
+    "effect": "DON!! x1 [When Attacking] Choose one:  Rest up to 1 of your opponents Characters with a cost of 2 or less.  KO up to 1 of your opponents rested Characters with a cost of 2 or less.",
     "traits": [
       "East Blue"
     ],
@@ -17571,7 +17592,7 @@
     "type": "Character",
     "cost": "6",
     "power": "6000",
-    "effect": "[On Play] Choose one: \u00e2\u20ac\u00a2 Trash up to 1 of your opponents Characters with a cost of 4 or less. \u00e2\u20ac\u00a2 Your opponent places 3 cards from their trash at the bottom of their deck in any order.",
+    "effect": "[On Play] Choose one:  Trash up to 1 of your opponents Characters with a cost of 4 or less.  Your opponent places 3 cards from their trash at the bottom of their deck in any order.",
     "traits": [
       "Former Rumbar Pirates"
     ],
@@ -17591,7 +17612,7 @@
     "type": "Character",
     "cost": "4",
     "power": "5000",
-    "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one: \u00e2\u20ac\u00a2 Your opponent trashes 1 card from their hand. \u00e2\u20ac\u00a2 Give up to 1 of your opponents Characters -3 cost during this turn.",
+    "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one:  Your opponent trashes 1 card from their hand.  Give up to 1 of your opponents Characters -3 cost during this turn.",
     "traits": [
       "Thriller Bark Pirates"
     ],
@@ -17792,7 +17813,7 @@
     "type": "Leader",
     "cost": null,
     "power": "5000",
-    "effect": "[Activate Main] Once Per Turn Choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents Characters with a cost of 4 or less. \u00e2\u20ac\u00a2 Give up to 1 of your opponents Characters -1 cost during this turn.",
+    "effect": "[Activate Main] Once Per Turn Choose one:  Rest up to 1 of your opponents Characters with a cost of 4 or less.  Give up to 1 of your opponents Characters -1 cost during this turn.",
     "traits": [
       "Thriller Bark Pirates"
     ],
@@ -18144,7 +18165,7 @@
     "type": "Event",
     "cost": "4",
     "power": null,
-    "effect": "[Activate Main] Choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents Characters with a cost of 6 or less. \u00e2\u20ac\u00a2 KO up to 1 of your opponents rested Characters with a cost of 6 or less. [Trigger] Activate this cards [Activate Main] effect.",
+    "effect": "[Activate Main] Choose one:  Rest up to 1 of your opponents Characters with a cost of 6 or less.  KO up to 1 of your opponents rested Characters with a cost of 6 or less. [Trigger] Activate this cards [Activate Main] effect.",
     "traits": [
       "Straw Hat Crew"
     ],
@@ -18681,7 +18702,7 @@
     "type": "Character",
     "cost": "5",
     "power": "6000",
-    "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponents field, choose one: \u00e2\u20ac\u00a2 KO up to 1 of your opponents Characters with a cost of 2 or less. \u00e2\u20ac\u00a2 Return up to 1 of your opponents Characters with a cost of 4 or less to the owners hand.",
+    "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponents field, choose one:  KO up to 1 of your opponents Characters with a cost of 2 or less.  Return up to 1 of your opponents Characters with a cost of 4 or less to the owners hand.",
     "traits": [
       "The Vinsmoke Family",
       "GERMA 66"
@@ -19460,7 +19481,7 @@
     "type": "Event",
     "cost": "4",
     "power": null,
-    "effect": "[Activate Main] Choose one: \u00e2\u20ac\u00a2 KO up to 1 of your opponents Characters with a cost of 5 or less. \u00e2\u20ac\u00a2 If your opponent has 1 Life card, deal 1 damage to your opponent. Then, add 1 card from the top of your Life cards to your hand. [Trigger] Draw 1 card.",
+    "effect": "[Activate Main] Choose one:  KO up to 1 of your opponents Characters with a cost of 5 or less.  If your opponent has 1 Life card, deal 1 damage to your opponent. Then, add 1 card from the top of your Life cards to your hand. [Trigger] Draw 1 card.",
     "traits": [
       "Sky Island",
       "Shandian Warrior"
@@ -21511,7 +21532,7 @@
     "type": "Character",
     "cost": "4",
     "power": "5000",
-    "effect": "[On Play] \u00e2\u2018\u00a0: Return up to 1 Character with a cost of 2 or less to the owners hand.",
+    "effect": "[On Play] (1 DON!!): Return up to 1 Character with a cost of 2 or less to the owners hand.",
     "traits": [
       "The Seven Warlords of the Sea",
       "Baroque Works"
@@ -22650,7 +22671,7 @@
     "type": "Leader",
     "cost": null,
     "power": "5000",
-    "effect": "This Leader cannot attack. [Activate Main] Once Per Turn \u00e2\u2018\u00a0: Select up to 1 Egghead type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+    "effect": "This Leader cannot attack. [Activate Main] Once Per Turn (1 DON!!): Select up to 1 Egghead type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
     "traits": [
       "Scientist",
       "Egghead"
@@ -24431,7 +24452,7 @@
     "type": "Character",
     "cost": "4",
     "power": "5000",
-    "effect": "<Blocker> [On KO] Choose one: \u00e2\u20ac\u00a2 Rest up to 1 of your opponents DON!! cards. \u00e2\u20ac\u00a2 KO up to 1 of your opponents rested Characters with a cost of 6 or less.",
+    "effect": "<Blocker> [On KO] Choose one:  Rest up to 1 of your opponents DON!! cards.  KO up to 1 of your opponents rested Characters with a cost of 6 or less.",
     "traits": [
       "Minks"
     ],
@@ -24958,7 +24979,7 @@
     "type": "Leader",
     "cost": null,
     "power": "5000",
-    "effect": "[Activate Main] Once Per Turn DON!! -2: Choose one: \u00e2\u20ac\u00a2 If you have 5 or less cards in your hand, draw 1 card. \u00e2\u20ac\u00a2 Give up to 1 of your opponents Characters -2 cost during this turn.",
+    "effect": "[Activate Main] Once Per Turn DON!! -2: Choose one:  If you have 5 or less cards in your hand, draw 1 card.  Give up to 1 of your opponents Characters -2 cost during this turn.",
     "traits": [
       "Animal Kingdom Pirates"
     ],
