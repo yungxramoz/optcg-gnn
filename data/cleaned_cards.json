@@ -6739,6 +6739,103 @@
     "counter": "2000"
   },
   {
+    "id": "P-057",
+    "name": "Fleeting Lullaby",
+    "type": "Event",
+    "cost": "3",
+    "power": null,
+    "effect": "[Activate Main] If your Leader is Uta, up to 2 of your opponents rested Characters with a cost of 4 or less will not become active in your opponents next Refresh Phase.\r\n[Trigger] Activate this cards [Activate Main] effect.",
+    "traits": [
+      "Music",
+      "FILM"
+    ],
+    "color": [
+      "Green"
+    ],
+    "attribute": [],
+    "rarity": "7",
+    "life": null,
+    "counter": null
+  },
+  {
+    "id": "P-058",
+    "name": "Where the Wind Blows",
+    "type": "Event",
+    "cost": "2",
+    "power": null,
+    "effect": "[Activate Main] If your Leader is Uta, set all of your FILM type Characters as active at the end of this turn.\r\n[Trigger] Set all of your FILM type Characters as active.",
+    "traits": [
+      "Music",
+      "FILM"
+    ],
+    "color": [
+      "Green"
+    ],
+    "attribute": [],
+    "rarity": "7",
+    "life": null,
+    "counter": null
+  },
+  {
+    "id": "P-059",
+    "name": "The World's Continuation",
+    "type": "Event",
+    "cost": "2",
+    "power": null,
+    "effect": "[Counter] If your Leader is Uta, you may return any number of Characters on your field to the owners hand. Up to 1 of your Leader or Character cards gains +2000 power during this battle for every returned Character.",
+    "traits": [
+      "Music",
+      "FILM"
+    ],
+    "color": [
+      "Green"
+    ],
+    "attribute": [],
+    "rarity": "7",
+    "life": null,
+    "counter": null
+  },
+  {
+    "id": "P-060",
+    "name": "Tot Musica",
+    "type": "Event",
+    "cost": "2",
+    "power": null,
+    "effect": "[Activate Main] You may rest 1 of your Uta cards: Rest up to 2 of your opponents DON!! cards.",
+    "traits": [
+      "Music",
+      "FILM"
+    ],
+    "color": [
+      "Green"
+    ],
+    "attribute": [],
+    "rarity": "7",
+    "life": null,
+    "counter": null
+  },
+  {
+    "id": "P-061",
+    "name": "Monkey.D.Luffy",
+    "type": "Character",
+    "cost": "8",
+    "power": "10000",
+    "effect": null,
+    "traits": [
+      "FILM",
+      "Straw Hat Crew"
+    ],
+    "color": [
+      "Green"
+    ],
+    "attribute": [
+      "Strike"
+    ],
+    "rarity": "7",
+    "life": null,
+    "counter": "1000"
+  },
+  {
     "id": "P-007",
     "name": "Monkey D. Luffy",
     "type": "Character",
